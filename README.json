@@ -17,7 +17,7 @@
                 "last_commit": "2023-05-19T10:01:03Z",
                 "owner": "google",
                 "repo": "android-classyshark",
-                "stars": 7559
+                "stars": 7558
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-19T22:54:04Z",
+                "last_commit": "2026-08-20T13:38:18Z",
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7031
+                "stars": 7032
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-08-20T21:55:15Z",
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6258
+                "stars": 6262
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 216696377,
                 "language": "Python",
-                "last_commit": "2026-08-19T12:31:46Z",
+                "last_commit": "2026-08-20T11:40:28Z",
                 "owner": "ev-flow",
                 "repo": "quark-engine",
-                "stars": 1710
+                "stars": 1711
               }
             },
             {
@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-17T21:31:57Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21615
+                "stars": 21616
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4594
+                "stars": 4593
               }
             },
             {
@@ -451,7 +451,7 @@
                 "last_commit": "2021-06-03T05:20:20Z",
                 "owner": "nccgroup",
                 "repo": "house",
-                "stars": 1464
+                "stars": 1463
               }
             },
             {
@@ -661,7 +661,7 @@
                 "last_commit": "2025-12-07T12:17:58Z",
                 "owner": "RaffaDNDM",
                 "repo": "HacknDroid",
-                "stars": 171
+                "stars": 170
               }
             },
             {
@@ -681,6 +681,21 @@
             },
             {
               "node_type": "item",
+              "title": "FlutterTap",
+              "description": "Zygisk module that bypasses BoringSSL certificate verification inside and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable and no listening port.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1315756817,
+                "language": "C++",
+                "last_commit": "2026-08-07T20:38:41Z",
+                "owner": "script-or-script",
+                "repo": "FlutterTap",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Mira",
               "description": "Runtime protection analysis platform for third-party Android and iOS apps, enabling AI to use host-app-side shell, Java, Native, and Frida capabilities for environment risk detection and hardening validation.",
               "children": [],
@@ -696,21 +711,6 @@
             },
             {
               "node_type": "item",
-              "title": "FlutterTap",
-              "description": "Zygisk module that bypasses BoringSSL certificate verification inside and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable and no listening port.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1315756817,
-                "language": "C++",
-                "last_commit": "2026-08-07T20:38:41Z",
-                "owner": "script-or-script",
-                "repo": "FlutterTap",
-                "stars": 98
-              }
-            },
-            {
-              "node_type": "item",
               "title": "MPT",
               "description": "MPT (Mobile Pentest Toolkit) is a must-have solution for your Android penetration testing workflows. This tool allows you to automate security tasks.",
               "children": [],
@@ -721,7 +721,7 @@
                 "last_commit": "2026-05-15T02:48:50Z",
                 "owner": "ByteSnipers",
                 "repo": "mobile-pentest-toolkit",
-                "stars": 92
+                "stars": 91
               }
             },
             {
@@ -833,7 +833,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50132
+                "stars": 50145
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2026-08-11T01:05:33Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25322
+                "stars": 25334
               }
             },
             {
@@ -860,10 +860,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-19T16:15:57Z",
+                "last_commit": "2026-08-21T00:28:31Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24603
+                "stars": 24610
               }
             },
             {
@@ -878,7 +878,7 @@
                 "last_commit": "2026-07-17T04:48:36Z",
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15603
+                "stars": 15604
               }
             },
             {
@@ -923,7 +923,7 @@
                 "last_commit": "2026-08-20T00:15:45Z",
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 12915
+                "stars": 12919
               }
             },
             {
@@ -938,7 +938,7 @@
                 "last_commit": "2024-01-17T22:59:22Z",
                 "owner": "JesusFreke",
                 "repo": "smali",
-                "stars": 6629
+                "stars": 6628
               }
             },
             {
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6199
+                "stars": 6200
               }
             },
             {
@@ -968,7 +968,7 @@
                 "last_commit": "2026-08-14T07:28:17Z",
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6109
+                "stars": 6111
               }
             },
             {
@@ -1010,10 +1010,10 @@
                 "archived": false,
                 "id": 24747351,
                 "language": "Java",
-                "last_commit": "2026-08-18T03:20:52Z",
+                "last_commit": "2026-08-20T10:23:33Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4365
+                "stars": 4366
               }
             },
             {
@@ -1088,7 +1088,7 @@
                 "last_commit": "2024-07-27T12:16:20Z",
                 "owner": "ClaudiuGeorgiu",
                 "repo": "Obfuscapk",
-                "stars": 1269
+                "stars": 1271
               }
             },
             {
@@ -1447,7 +1447,7 @@
                 "last_commit": "2023-08-15T00:53:28Z",
                 "owner": "Akdeniz",
                 "repo": "google-play-crawler",
-                "stars": 594
+                "stars": 595
               }
             },
             {
@@ -1462,7 +1462,7 @@
                 "last_commit": "2021-05-06T19:05:41Z",
                 "owner": "dweinstein",
                 "repo": "node-google-play",
-                "stars": 282
+                "stars": 281
               }
             },
             {
@@ -1511,10 +1511,10 @@
                 "archived": false,
                 "id": 519832,
                 "language": "Python",
-                "last_commit": "2026-08-13T13:50:59Z",
+                "last_commit": "2026-08-20T23:12:02Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44738
+                "stars": 44755
               }
             },
             {
@@ -1834,7 +1834,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13122
+                "stars": 13123
               }
             },
             {
@@ -1849,7 +1849,7 @@
                 "last_commit": "2024-02-08T14:18:04Z",
                 "owner": "tanprathan",
                 "repo": "MobileApp-Pentest-Cheatsheet",
-                "stars": 5256
+                "stars": 5255
               }
             },
             {
@@ -1892,7 +1892,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:46:05.139Z",
+    "last_updated": "2026-08-21T02:52:28.978Z",
     "original_repository": "ashishb/android-security-awesome",
     "original_repository_id": 22117770,
     "original_repository_sha": "de0b5481ac6fa92a5dad2e17e343a3ac0ac75814",
