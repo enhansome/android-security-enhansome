@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-20T13:38:18Z",
+                "last_commit": "2026-08-22T01:15:50Z",
                 "owner": "detekt",
                 "repo": "detekt",
                 "stars": 7032
@@ -47,7 +47,7 @@
                 "last_commit": "2025-08-20T21:55:15Z",
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6262
+                "stars": 6265
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2026-08-20T11:40:28Z",
                 "owner": "ev-flow",
                 "repo": "quark-engine",
-                "stars": 1711
+                "stars": 1712
               }
             },
             {
@@ -113,7 +113,7 @@
             {
               "node_type": "item",
               "title": "Androwarn",
-              "description": "detect and warn the user about potential malicious behaviors developed by an Android application.",
+              "description": "detects and warns the user about potential malicious behaviors developed by an Android application.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -309,7 +309,7 @@
                 "last_commit": "2024-01-16T08:17:35Z",
                 "owner": "linkedin",
                 "repo": "qark",
-                "stars": 3381
+                "stars": 3382
               }
             },
             {
@@ -358,10 +358,10 @@
                 "archived": false,
                 "id": 30102273,
                 "language": "JavaScript",
-                "last_commit": "2026-08-17T21:31:57Z",
+                "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21616
+                "stars": 21618
               }
             },
             {
@@ -376,7 +376,7 @@
                 "last_commit": "2026-04-08T07:54:54Z",
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4593
+                "stars": 4594
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2020-09-22T01:45:56Z",
                 "owner": "ac-pm",
                 "repo": "Inspeckage",
-                "stars": 2980
+                "stars": 2981
               }
             },
             {
@@ -427,7 +427,7 @@
             {
               "node_type": "item",
               "title": "Andriller",
-              "description": "software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.",
+              "description": "a software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "Androl4b",
-              "description": "A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis",
+              "description": "A Virtual Machine for Assessing Android applications, Reverse Engineering and Malware Analysis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -481,7 +481,7 @@
                 "last_commit": "2023-03-12T18:38:54Z",
                 "owner": "mesquidar",
                 "repo": "adbsploit",
-                "stars": 903
+                "stars": 901
               }
             },
             {
@@ -556,7 +556,7 @@
                 "last_commit": "2026-08-10T14:37:32Z",
                 "owner": "fkie-cad",
                 "repo": "friTap",
-                "stars": 535
+                "stars": 536
               }
             },
             {
@@ -682,7 +682,7 @@
             {
               "node_type": "item",
               "title": "FlutterTap",
-              "description": "Zygisk module that bypasses BoringSSL certificate verification inside and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable and no listening port.",
+              "description": "Zygisk module that bypasses BoringSSL certificate verification inside and redirects the traffic of selected Flutter apps to a proxy. Persistent across reboots, so it needs no Frida session, no cable, and no listening port.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -691,7 +691,7 @@
                 "last_commit": "2026-08-07T20:38:41Z",
                 "owner": "script-or-script",
                 "repo": "FlutterTap",
-                "stars": 99
+                "stars": 101
               }
             },
             {
@@ -703,7 +703,7 @@
                 "archived": false,
                 "id": 1216569752,
                 "language": "C",
-                "last_commit": "2026-08-17T04:37:45Z",
+                "last_commit": "2026-08-21T15:44:30Z",
                 "owner": "vwww-droid",
                 "repo": "Mira",
                 "stars": 98
@@ -727,7 +727,7 @@
             {
               "node_type": "item",
               "title": "PAPIMonitor",
-              "description": "PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-select APIs during the app execution.",
+              "description": "PAPIMonitor (Python API Monitor for Android apps) is a Python tool based on Frida for monitoring user-selected APIs during app execution.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -813,6 +813,21 @@
                 "repo": "StaDynA",
                 "stars": 25
               }
+            },
+            {
+              "node_type": "item",
+              "title": "Mobix",
+              "description": "Authorized Android pentest lab: Frida SSL-pinning/root-detection bypass chain, mitmproxy traffic capture with automatic IDOR flagging, a web dashboard, and a 36-tool MCP server so a Claude Code agent can run the whole scan-to-findings loop itself.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1326661391,
+                "language": "Python",
+                "last_commit": "2026-08-14T12:22:40Z",
+                "owner": "blackfoxxx",
+                "repo": "Mobix",
+                "stars": 2
+              }
             }
           ],
           "description": null,
@@ -833,7 +848,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50145
+                "stars": 50154
               }
             },
             {
@@ -848,7 +863,7 @@
                 "last_commit": "2026-08-11T01:05:33Z",
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25334
+                "stars": 25336
               }
             },
             {
@@ -860,10 +875,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-21T00:28:31Z",
+                "last_commit": "2026-08-22T00:32:39Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24610
+                "stars": 24615
               }
             },
             {
@@ -893,7 +908,7 @@
                 "last_commit": "2024-07-08T18:45:59Z",
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15176
+                "stars": 15175
               }
             },
             {
@@ -908,7 +923,7 @@
                 "last_commit": "2024-07-21T06:08:25Z",
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13133
+                "stars": 13132
               }
             },
             {
@@ -923,7 +938,7 @@
                 "last_commit": "2026-08-20T00:15:45Z",
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 12919
+                "stars": 12929
               }
             },
             {
@@ -938,7 +953,7 @@
                 "last_commit": "2024-01-17T22:59:22Z",
                 "owner": "JesusFreke",
                 "repo": "smali",
-                "stars": 6628
+                "stars": 6629
               }
             },
             {
@@ -953,12 +968,12 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6200
+                "stars": 6201
               }
             },
             {
               "node_type": "item",
-              "title": "PhoneSpolit-Pro",
+              "title": "PhoneSploit-Pro",
               "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit Framework to get a Meterpreter session.",
               "children": [],
               "repo_info": {
@@ -983,7 +998,7 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5082
+                "stars": 5086
               }
             },
             {
@@ -1010,7 +1025,7 @@
                 "archived": false,
                 "id": 24747351,
                 "language": "Java",
-                "last_commit": "2026-08-20T10:23:33Z",
+                "last_commit": "2026-08-21T08:46:05Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
                 "stars": 4366
@@ -1019,7 +1034,7 @@
             {
               "node_type": "item",
               "title": "APKLab",
-              "description": "plugin for VS code to analyze APKs",
+              "description": "plugin for VS Code to analyze APKs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1289,7 +1304,7 @@
             {
               "node_type": "item",
               "title": "ARMANDroid",
-              "description": "ARMAND (Anti-Repackaging through Multi-pattern, Anti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing their source code.",
+              "description": "ARMAND (Anti-Repackaging through Multi-pattern, Anti-tampering based on Native Detection) is a novel anti-tampering protection scheme that embeds logic bombs and AT detection nodes directly in the apk file without needing its source code.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1511,10 +1526,10 @@
                 "archived": false,
                 "id": 519832,
                 "language": "Python",
-                "last_commit": "2026-08-20T23:12:02Z",
+                "last_commit": "2026-08-21T20:29:28Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44755
+                "stars": 44771
               }
             },
             {
@@ -1589,7 +1604,7 @@
                 "last_commit": "2026-07-18T22:26:15Z",
                 "owner": "AndroidDumps",
                 "repo": "Firmware_extractor",
-                "stars": 361
+                "stars": 362
               }
             },
             {
@@ -1601,7 +1616,7 @@
                 "archived": false,
                 "id": 978365261,
                 "language": "C",
-                "last_commit": "2026-08-19T21:24:21Z",
+                "last_commit": "2026-08-21T15:45:09Z",
                 "owner": "R0rt1z2",
                 "repo": "kaeru",
                 "stars": 292
@@ -1619,7 +1634,7 @@
                 "last_commit": "2025-11-22T21:34:10Z",
                 "owner": "mbrubeck",
                 "repo": "android-completion",
-                "stars": 262
+                "stars": 263
               }
             },
             {
@@ -1646,10 +1661,10 @@
                 "archived": false,
                 "id": 1247520017,
                 "language": "Kotlin",
-                "last_commit": "2026-08-18T06:57:01Z",
+                "last_commit": "2026-08-21T08:10:48Z",
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 137
+                "stars": 138
               }
             },
             {
@@ -1716,7 +1731,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1467
+                "stars": 1468
               }
             },
             {
@@ -1731,7 +1746,7 @@
                 "last_commit": "2023-05-19T21:04:24Z",
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1136
+                "stars": 1137
               }
             },
             {
@@ -1834,7 +1849,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13123
+                "stars": 13126
               }
             },
             {
@@ -1849,7 +1864,7 @@
                 "last_commit": "2024-02-08T14:18:04Z",
                 "owner": "tanprathan",
                 "repo": "MobileApp-Pentest-Cheatsheet",
-                "stars": 5255
+                "stars": 5256
               }
             },
             {
@@ -1892,10 +1907,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:52:28.978Z",
+    "last_updated": "2026-08-22T02:43:45.451Z",
     "original_repository": "ashishb/android-security-awesome",
     "original_repository_id": 22117770,
-    "original_repository_sha": "de0b5481ac6fa92a5dad2e17e343a3ac0ac75814",
+    "original_repository_sha": "637b00fb2e6018342da23adb6eb2d3318063b526",
     "enhanced_repository": "enhansome/android-security-enhansome",
     "enhanced_repository_description": null,
     "title": "android-security-awesome with stars"
