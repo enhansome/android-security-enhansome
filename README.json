@@ -361,7 +361,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21639
+                "stars": 21640
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50195
+                "stars": 50196
               }
             },
             {
@@ -875,7 +875,7 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-25T00:15:55Z",
+                "last_commit": "2026-08-25T03:54:47Z",
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24638
@@ -908,7 +908,7 @@
                 "last_commit": "2024-07-08T18:45:59Z",
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15175
+                "stars": 15176
               }
             },
             {
@@ -953,7 +953,7 @@
                 "last_commit": "2024-01-17T22:59:22Z",
                 "owner": "JesusFreke",
                 "repo": "smali",
-                "stars": 6629
+                "stars": 6628
               }
             },
             {
@@ -998,7 +998,7 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5090
+                "stars": 5091
               }
             },
             {
@@ -1025,7 +1025,7 @@
                 "archived": false,
                 "id": 24747351,
                 "language": "Java",
-                "last_commit": "2026-08-21T08:46:05Z",
+                "last_commit": "2026-08-25T03:30:35Z",
                 "owner": "JetBrains",
                 "repo": "fernflower",
                 "stars": 4370
@@ -1641,7 +1641,7 @@
                 "last_commit": "2026-08-21T15:45:09Z",
                 "owner": "R0rt1z2",
                 "repo": "kaeru",
-                "stars": 294
+                "stars": 295
               }
             },
             {
@@ -1753,7 +1753,7 @@
                 "last_commit": "2024-04-17T12:40:37Z",
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1469
+                "stars": 1470
               }
             },
             {
@@ -1768,7 +1768,7 @@
                 "last_commit": "2023-05-19T21:04:24Z",
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1139
+                "stars": 1140
               }
             },
             {
@@ -1966,7 +1966,7 @@
                 "last_commit": "2025-12-31T06:45:45Z",
                 "owner": "ashishb",
                 "repo": "android-malware",
-                "stars": 1220
+                "stars": 1221
               }
             }
           ],
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:48:08.621Z",
+    "last_updated": "2026-08-25T05:45:29.877Z",
     "original_repository": "ashishb/android-security-awesome",
     "original_repository_id": 22117770,
     "original_repository_sha": "637b00fb2e6018342da23adb6eb2d3318063b526",
