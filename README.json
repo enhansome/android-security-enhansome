@@ -406,7 +406,7 @@
                 "last_commit": "2020-09-22T01:45:56Z",
                 "owner": "ac-pm",
                 "repo": "Inspeckage",
-                "stars": 2983
+                "stars": 2982
               }
             },
             {
@@ -848,7 +848,7 @@
                 "last_commit": "2026-08-19T18:52:12Z",
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50230
+                "stars": 50231
               }
             },
             {
@@ -875,10 +875,10 @@
                 "archived": false,
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-27T08:56:54Z",
+                "last_commit": "2026-08-27T12:14:26Z",
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24656
+                "stars": 24658
               }
             },
             {
@@ -1551,7 +1551,7 @@
                 "last_commit": "2026-08-25T23:39:26Z",
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44824
+                "stars": 44825
               }
             },
             {
@@ -2001,7 +2001,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:17:37.903Z",
+    "last_updated": "2026-08-27T12:16:04.871Z",
     "original_repository_info": {
       "archived": false,
       "id": 22117770,

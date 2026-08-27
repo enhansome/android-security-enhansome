@@ -101,7 +101,7 @@ A collection of Android security-related resources.
 1. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,656 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-27 - Mobile Security Framework is an intelligent, all-in-one open-source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis, and web API testing.
 2. [Drozer](https://github.com/mwrlabs/drozer) ⭐ 4,597 | 🐛 9 | 🌐 Python | 📅 2026-04-08
 3. [Runtime Mobile Security (RMS)](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,076 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03 - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
-4. [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,983 | 🐛 58 | 🌐 Java | 📅 2020-09-22 - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
+4. [Inspeckage](https://github.com/ac-pm/Inspeckage) ⭐ 2,982 | 🐛 58 | 🌐 Java | 📅 2020-09-22 - Android Package Inspector - dynamic analysis with API hooks, start unexported activities, and more. (Xposed Module)
 5. [Brida](https://github.com/federicodotta/Brida) ⭐ 1,889 | 🐛 11 | 🌐 Java | 📅 2025-10-30 - Burp Suite extension that, working as a bridge between Burp and Frida, lets you use and manipulate the applications' own methods while tampering with the traffic exchanged between the applications and their back-end services/servers.
 6. [Andriller](https://github.com/den4uk/andriller) ⭐ 1,599 | 🐛 11 | 🌐 Python | 📅 2022-06-27 - a software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.
 7. [House](https://github.com/nccgroup/house) ⭐ 1,463 | 🐛 16 | 🌐 JavaScript | 📅 2021-06-03- House: A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.
@@ -148,9 +148,9 @@ A collection of Android security-related resources.
 
 ### Reverse Engineering
 
-1. [Jadx](https://github.com/skylot/jadx) ⭐ 50,230 | 🐛 446 | 🌐 Java | 📅 2026-08-19
+1. [Jadx](https://github.com/skylot/jadx) ⭐ 50,231 | 🐛 446 | 🌐 Java | 📅 2026-08-19
 2. [Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 25,388 | 🐛 82 | 🌐 Java | 📅 2026-08-26 – really useful for compilation/decompilation (uses smali)
-3. [Radare2](https://github.com/radare/radare2) ⭐ 24,656 | 🐛 819 | 🌐 C | 📅 2026-08-27
+3. [Radare2](https://github.com/radare/radare2) ⭐ 24,658 | 🐛 820 | 🌐 C | 📅 2026-08-27
 4. [Bytecode viewer](https://github.com/Konloch/bytecode-viewer) ⭐ 15,615 | 🐛 103 | 🌐 Java | 📅 2026-07-17
 5. [JD-GUI](https://github.com/java-decompiler/jd-gui) ⭐ 15,180 | 🐛 248 | 🌐 Java | 📅 2024-07-08 - Java decompiler
 6. [Dex2Jar](https://github.com/pxb1988/dex2jar) ⭐ 13,135 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - dex to jar converter
@@ -218,7 +218,7 @@ A collection of Android security-related resources.
 
 ### Misc Tools
 
-1. [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,824 | 🐛 463 | 🌐 Python | 📅 2026-08-25
+1. [mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 44,825 | 🐛 463 | 🌐 Python | 📅 2026-08-25
 2. [AppMon](https://github.com/dpnishant/appmon) ⚠️ Archived- AppMon is an automated framework for monitoring and tampering with system API calls of native macOS, iOS, and Android apps. It is based on Frida.
 3. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) ⭐ 1,034 | 🐛 24 | 🌐 Java | 📅 2019-08-02 - android-vts scans a device for set of vulnerabilities
 4. [sundaysec/Android-Exploits](https://github.com/sundaysec/Android-Exploits) ⭐ 1,012 | 🐛 5 | 🌐 HTML | 📅 2019-10-08 - A collection of android Exploits and Hacks
