@@ -12,12 +12,28 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Android and Java bytecode viewer",
+                "homepage": null,
                 "id": 44109745,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-19T10:01:03Z",
+                "open_issues": 41,
                 "owner": "google",
                 "repo": "android-classyshark",
-                "stars": 7558
+                "stars": 7558,
+                "topics": [
+                  "analysis",
+                  "android",
+                  "apk",
+                  "apk-parser",
+                  "classyshark",
+                  "dex",
+                  "jar",
+                  "java",
+                  "kotlin",
+                  "multidex"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -28,12 +44,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Static code analysis for Kotlin",
+                "homepage": "https://detekt.dev",
                 "id": 71729669,
                 "language": "MDX",
-                "last_commit": "2026-08-28T12:28:14Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:59:54Z",
+                "open_issues": 191,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7035
+                "stars": 7035,
+                "topics": [
+                  "analysis",
+                  "code-quality",
+                  "codesmells",
+                  "gradle-plugin",
+                  "hacktoberfest",
+                  "kotlin",
+                  "lint",
+                  "linter",
+                  "static",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -44,12 +76,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scanning APK file for URIs, endpoints & secrets.",
+                "homepage": null,
                 "id": 267958226,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-20T21:55:15Z",
+                "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6276
+                "stars": 6277,
+                "topics": [
+                  "android-security",
+                  "apk",
+                  "apk-parser",
+                  "bugbounty",
+                  "mobile-security",
+                  "reverse-engineering",
+                  "scanning-apk",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -60,12 +106,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://doc.quark-engine.com",
                 "id": 216696377,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:12:14Z",
+                "open_issues": 77,
                 "owner": "ev-flow",
                 "repo": "quark-engine",
-                "stars": 1713
+                "stars": 1713,
+                "topics": [
+                  "android",
+                  "blackbox",
+                  "blackhat",
+                  "defcon",
+                  "malware-analysis",
+                  "malware-detection"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -76,12 +134,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 3978603,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-07-13T22:18:45Z",
+                "open_issues": 6,
                 "owner": "sonyxperiadev",
                 "repo": "ApkAnalyser",
-                "stars": 1047
+                "stars": 1048,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -92,12 +155,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.",
+                "homepage": null,
                 "id": 119727944,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-04-27T07:05:51Z",
+                "open_issues": 11,
                 "owner": "vincentcox",
                 "repo": "StaCoAn",
-                "stars": 868
+                "stars": 868,
+                "topics": [
+                  "bugbounty",
+                  "mobile-security",
+                  "security",
+                  "security-tools",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -108,12 +182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "APKinspector is a powerful GUI tool for analysts to analyze the Android applications.",
+                "homepage": null,
                 "id": 8352792,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2013-02-25T00:39:10Z",
+                "open_issues": 15,
                 "owner": "honeynet",
                 "repo": "apkinspector",
-                "stars": 852
+                "stars": 852,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -124,12 +203,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet another static code analyzer for malicious Android applications",
+                "homepage": null,
                 "id": 4702541,
                 "language": "HTML",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-01-21T20:06:02Z",
+                "open_issues": 22,
                 "owner": "maaaaz",
                 "repo": "androwarn",
-                "stars": 532
+                "stars": 532,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -140,12 +224,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Secure, Unified, Powerful and Extensible Rust Android Analyzer",
+                "homepage": "https://superanalyzer.rocks/",
                 "id": 58658168,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-17T10:07:49Z",
+                "open_issues": 32,
                 "owner": "SUPERAndroidAnalyzer",
                 "repo": "super",
-                "stars": 428
+                "stars": 428,
+                "topics": [
+                  "analyzer",
+                  "android",
+                  "android-analyzer",
+                  "android-development",
+                  "apk",
+                  "linux",
+                  "macos",
+                  "rust",
+                  "security",
+                  "security-audit",
+                  "security-automation",
+                  "security-scanner",
+                  "security-tools",
+                  "super",
+                  "vulnerabilities",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -156,12 +262,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Joint Advanced Defect assEsment for android applications",
+                "homepage": "https://speakerdeck.com/flankerhqd/jade-joint-advanced-defect-assesment",
                 "id": 60319699,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-12T03:49:44Z",
+                "open_issues": 1,
                 "owner": "flankerhqd",
                 "repo": "JAADAS",
-                "stars": 350
+                "stars": 350,
+                "topics": [
+                  "android-applications",
+                  "inter-procedure-analysis",
+                  "soot",
+                  "static-analysis",
+                  "vulnerability"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -172,12 +289,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Static Code Analysis for Smali files",
+                "homepage": null,
                 "id": 31975151,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-10-03T15:42:12Z",
+                "open_issues": 16,
                 "owner": "dorneanu",
                 "repo": "smalisca",
-                "stars": 323
+                "stars": 323,
+                "topics": [
+                  "android",
+                  "python",
+                  "reverse-engineering",
+                  "smali"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -188,12 +315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One-Step APK Decompilation With Multiple Backends",
+                "homepage": null,
                 "id": 89123864,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-01-19T06:11:07Z",
+                "open_issues": 4,
                 "owner": "muellerberndt",
                 "repo": "apkx",
-                "stars": 316
+                "stars": 316,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -204,12 +336,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Django application that performs SAST and Malware Analysis for Android APKs",
+                "homepage": "https://owasp.org/www-project-mobile-audit/",
                 "id": 314791475,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T18:58:15Z",
+                "open_issues": 2,
                 "owner": "mpast",
                 "repo": "mobileAudit",
-                "stars": 226
+                "stars": 226,
+                "topics": [
+                  "androguard",
+                  "android-security",
+                  "apk",
+                  "apk-analysis",
+                  "code-security",
+                  "defect-dojo",
+                  "django",
+                  "django-rest-framework",
+                  "docker",
+                  "malware",
+                  "malware-analysis",
+                  "mobile-audit",
+                  "mobile-security",
+                  "sast",
+                  "virustotal"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -220,12 +373,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for quantitative risk analysis of Android applications based on machine learning techniques",
+                "homepage": null,
                 "id": 75479720,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T13:16:17Z",
+                "open_issues": 0,
                 "owner": "ClaudiuGeorgiu",
                 "repo": "RiskInDroid",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "android",
+                  "android-permissions",
+                  "machine-learning",
+                  "quantitative-risk-analysis",
+                  "risk",
+                  "riskindroid"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -236,12 +401,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple framework to extract \"actionable\" data from Android malware (C&Cs, phone numbers etc.)",
+                "homepage": null,
                 "id": 33070140,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-05-07T05:41:58Z",
+                "open_issues": 5,
                 "owner": "maldroid",
                 "repo": "maldrolyzer",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -252,12 +422,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Control Flow Graph Scanning for Android",
+                "homepage": null,
                 "id": 24552244,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2015-05-26T14:46:40Z",
+                "open_issues": 4,
                 "owner": "TACIXAT",
                 "repo": "CFGScanDroid",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -268,12 +443,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced analysis software for APK payloads created by RATs.",
+                "homepage": "https://trojandb.org/blog/post.php?slug=apkdevastaten-apk-payload-analyzer",
                 "id": 986537172,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-01T20:29:25Z",
+                "open_issues": 0,
                 "owner": "rafosw",
                 "repo": "APKdevastate",
-                "stars": 60
+                "stars": 60,
+                "topics": [
+                  "aapt",
+                  "android",
+                  "apk",
+                  "apktool",
+                  "remoteaccesstrojan",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -284,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Symbolic/concolic execution of Android apps",
+                "homepage": null,
                 "id": 26295726,
                 "language": "Java",
+                "license": "BSD-3-Clause",
                 "last_commit": "2016-03-08T17:44:25Z",
+                "open_issues": 4,
                 "owner": "JulianSchuette",
                 "repo": "ConDroid",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -300,12 +493,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Taming Reflection to Support Whole-Program Analysis of Android Apps",
+                "homepage": null,
                 "id": 41542180,
                 "language": "Java",
+                "license": "LGPL-2.1",
                 "last_commit": "2020-02-14T01:59:16Z",
+                "open_issues": 4,
                 "owner": "serval-snt-uni-lu",
                 "repo": "DroidRA",
-                "stars": 51
+                "stars": 51,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -323,12 +521,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool to look for several security related Android application vulnerabilities",
+                "homepage": null,
                 "id": 38121886,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-16T08:17:35Z",
+                "open_issues": 79,
                 "owner": "linkedin",
                 "repo": "qark",
-                "stars": 3382
+                "stars": 3382,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -339,12 +542,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An on-path blackbox network traffic security testing tool",
+                "homepage": null,
                 "id": 25940829,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-03T14:56:54Z",
+                "open_issues": 33,
                 "owner": "google",
                 "repo": "nogotofail",
-                "stars": 2951
+                "stars": 2951,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -355,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AndroBugs Framework is an efficient Android vulnerability scanner that helps developers or hackers find potential security vulnerabilities in Android applications. No need to install on Windows.",
+                "homepage": null,
                 "id": 46008702,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-24T13:26:23Z",
+                "open_issues": 16,
                 "owner": "AndroBugs",
                 "repo": "AndroBugs_Framework",
-                "stars": 1224
+                "stars": 1224,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -378,12 +591,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+                "homepage": "https://opensecurity.in",
                 "id": 30102273,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T04:55:25Z",
+                "open_issues": 25,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21660
+                "stars": 21661,
+                "topics": [
+                  "android-security",
+                  "api-testing",
+                  "apk",
+                  "cwe",
+                  "devsecops",
+                  "dynamic-analysis",
+                  "ios-security",
+                  "malware-analysis",
+                  "mastg",
+                  "masvs",
+                  "mobile-security",
+                  "mobsf",
+                  "mstg",
+                  "owasp",
+                  "rest",
+                  "runtime-security",
+                  "static-analysis",
+                  "web-security",
+                  "windows-mobile-security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -394,12 +632,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Leading Security Assessment Framework for Android.",
+                "homepage": "https://labs.reversec.com/tools/drozer",
                 "id": 3536659,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-08T07:54:54Z",
+                "open_issues": 9,
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4598
+                "stars": 4599,
+                "topics": [
+                  "android",
+                  "drozer",
+                  "java",
+                  "mobile",
+                  "mobsec",
+                  "pentesting",
+                  "reversec",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -410,12 +662,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime",
+                "homepage": "https://twitter.com/mobilesecurity_",
                 "id": 250552704,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-03T21:28:34Z",
+                "open_issues": 8,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3077
+                "stars": 3077,
+                "topics": [
+                  "android-security",
+                  "frida",
+                  "ios-security",
+                  "mobile-security",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -426,12 +689,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Package Inspector - dynamic analysis with api hooks, start unexported activities and more. (Xposed Module)",
+                "homepage": null,
                 "id": 52749312,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-09-22T01:45:56Z",
+                "open_issues": 58,
                 "owner": "ac-pm",
                 "repo": "Inspeckage",
-                "stars": 2983
+                "stars": 2983,
+                "topics": [
+                  "android-application",
+                  "dynamic-analysis",
+                  "security-analysis",
+                  "xposed"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -442,12 +715,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The new bridge between Burp Suite and Frida!",
+                "homepage": null,
                 "id": 98666120,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2025-10-30T13:47:46Z",
+                "open_issues": 11,
                 "owner": "federicodotta",
                 "repo": "Brida",
-                "stars": 1890
+                "stars": 1890,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -458,12 +736,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📱 Andriller - is software utility with a collection of forensic tools for smartphones. It performs read-only, forensically sound, non-destructive acquisition from Android devices.",
+                "homepage": null,
                 "id": 227929809,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-27T22:00:44Z",
+                "open_issues": 11,
                 "owner": "den4uk",
                 "repo": "andriller",
-                "stars": 1599
+                "stars": 1599,
+                "topics": [
+                  "android",
+                  "forensics",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -474,12 +761,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A runtime mobile application analysis toolkit with a Web GUI, powered by Frida, written in Python.",
+                "homepage": "https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/june/house-a-mobile-analysis-platform-built-on-frida/",
                 "id": 135610584,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-06-03T05:20:20Z",
+                "open_issues": 16,
                 "owner": "nccgroup",
                 "repo": "house",
-                "stars": 1464
+                "stars": 1464,
+                "topics": [
+                  "android",
+                  "frida",
+                  "mobile",
+                  "pentest-tool"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -490,12 +787,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis",
+                "homepage": null,
                 "id": 50403264,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-31T01:20:26Z",
+                "open_issues": 5,
                 "owner": "sh4hin",
                 "repo": "Androl4b",
-                "stars": 1166
+                "stars": 1166,
+                "topics": [
+                  "android",
+                  "application-security",
+                  "malware-analyzer",
+                  "mobile-security",
+                  "penetration-testing",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -506,12 +815,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A python based tool for exploiting and managing Android devices via ADB",
+                "homepage": null,
                 "id": 283811234,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-12T18:38:54Z",
+                "open_issues": 11,
                 "owner": "mesquidar",
                 "repo": "adbsploit",
-                "stars": 902
+                "stars": 902,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-exploitation",
+                  "android-hacking",
+                  "apk",
+                  "exploit",
+                  "exploiting",
+                  "hacking"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -522,12 +845,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DECAF (short for Dynamic Executable Code Analysis Framework) is a binary analysis platform based on QEMU.  This is also the home of the DroidScope dynamic Android malware analysis platform. DroidScope is now an extension to DECAF.",
+                "homepage": null,
                 "id": 28116165,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-19T03:58:17Z",
+                "open_issues": 37,
                 "owner": "decaf-project",
                 "repo": "DECAF",
-                "stars": 838
+                "stars": 838,
+                "topics": [
+                  "binary-analysis",
+                  "taint-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -538,12 +869,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dynamic analysis of Android apps",
+                "homepage": null,
                 "id": 23312355,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-22T13:07:19Z",
+                "open_issues": 32,
                 "owner": "pjlantz",
                 "repo": "droidbox",
-                "stars": 805
+                "stars": 805,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -554,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in testing mobile applications against the OWASP mobile security  threats. ",
+                "homepage": "http://www.shadowinfosec.io",
                 "id": 62579138,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2019-07-26T13:46:56Z",
+                "open_issues": 3,
                 "owner": "xtiankisutsa",
                 "repo": "MARA_Framework",
-                "stars": 670
+                "stars": 670,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -570,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CuckooDroid - Automated Android Malware Analysis with Cuckoo Sandbox.",
+                "homepage": null,
                 "id": 32469278,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-11-07T08:04:10Z",
+                "open_issues": 71,
                 "owner": "idanr1986",
                 "repo": "cuckoo-droid",
-                "stars": 608
+                "stars": 608,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -586,12 +932,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplifying encrypted traffic analysis for researchers by making protocol decryption effortless.",
+                "homepage": "https://fkie-cad.github.io/friTap/",
                 "id": 411940494,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-10T14:37:32Z",
+                "open_issues": 8,
                 "owner": "fkie-cad",
                 "repo": "friTap",
-                "stars": 536
+                "stars": 536,
+                "topics": [
+                  "android",
+                  "android-https-capture",
+                  "binary-analysis",
+                  "frida",
+                  "hooking",
+                  "https",
+                  "linux",
+                  "network-analysis",
+                  "network-capture",
+                  "network-forensics",
+                  "security",
+                  "security-audit",
+                  "ssl",
+                  "ssldump",
+                  "tcpdump",
+                  "tls"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -602,12 +970,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hooker is an opensource project for dynamic analyses of Android applications. This project provides various tools and applications that can be use to automaticaly intercept and modify any API calls made by a targeted application.",
+                "homepage": null,
                 "id": 18770185,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2016-08-09T08:25:21Z",
+                "open_issues": 5,
                 "owner": "AndroidHooker",
                 "repo": "hooker",
-                "stars": 415
+                "stars": 415,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -618,12 +991,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A framework for automated extraction of static and dynamic features from Android applications",
+                "homepage": null,
                 "id": 109983579,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-12-07T23:43:41Z",
+                "open_issues": 26,
                 "owner": "alexMyG",
                 "repo": "AndroPyTool",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "android-analysis",
+                  "android-malware-detection"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -634,12 +1015,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Malware Sandbox",
+                "homepage": null,
                 "id": 200059030,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-02-06T17:09:09Z",
+                "open_issues": 7,
                 "owner": "Areizen",
                 "repo": "Android-Malware-Sandbox",
-                "stars": 307
+                "stars": 307,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -650,12 +1036,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Loadable Kernel Modules - mostly used for reversing and debugging on controlled systems/emulators",
+                "homepage": null,
                 "id": 22245551,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2014-09-11T22:23:54Z",
+                "open_issues": 0,
                 "owner": "strazzere",
                 "repo": "android-lkms",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "android",
+                  "android-lkms",
+                  "emulators",
+                  "kernel",
+                  "loadable-kernel-modules",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -666,12 +1064,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A SDK for the creation of analysis tools without obtaining app source code in order to profile runtime performance, examine code coverage, and track high-risk behaviors of a given app on Android 5.0 and above.",
+                "homepage": null,
                 "id": 45554156,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2018-12-16T03:55:48Z",
+                "open_issues": 3,
                 "owner": "ZSShen",
                 "repo": "ProbeDroid",
-                "stars": 204
+                "stars": 204,
+                "topics": [
+                  "android",
+                  "binary-instrument",
+                  "malware-analysis",
+                  "malware-research",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -682,12 +1091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The tool is used to analyze the content of the android application in local storage.",
+                "homepage": null,
                 "id": 180988292,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-29T09:13:48Z",
+                "open_issues": 3,
                 "owner": "NotSoSecure",
                 "repo": "android_application_analyzer",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -698,12 +1112,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automation of some MAPT activities and interaction with the mobile Android device.",
+                "homepage": "https://raffadndm.gitbook.io/tools/hackndroid",
                 "id": 879207026,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-07T12:17:58Z",
+                "open_issues": 0,
                 "owner": "RaffaDNDM",
                 "repo": "HacknDroid",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "android-analysis",
+                  "android-penetration-testing",
+                  "android-pentesting",
+                  "flask",
+                  "frida",
+                  "mobile-hacking",
+                  "mobile-penetration-testing",
+                  "mobile-pentest",
+                  "mobile-pentest-toolkit"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -714,12 +1143,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis",
+                "homepage": null,
                 "id": 29240877,
                 "language": null,
+                "license": null,
                 "last_commit": "2016-04-25T17:48:17Z",
+                "open_issues": 3,
                 "owner": "oguzhantopgul",
                 "repo": "Vezir-Project",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -730,12 +1164,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zygisk module that intercepts Flutter app traffic — redirects to a proxy and bypasses BoringSSL TLS pinning. Persistent, no Frida session. Installable via MMRL.",
+                "homepage": null,
                 "id": 1315756817,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-07T20:38:41Z",
+                "open_issues": 0,
                 "owner": "script-or-script",
                 "repo": "FlutterTap",
-                "stars": 104
+                "stars": 105,
+                "topics": [
+                  "android-security",
+                  "apatch",
+                  "boringssl",
+                  "burpsuite",
+                  "certificate-pinning",
+                  "flutter",
+                  "kernelsu",
+                  "magisk",
+                  "magisk-module",
+                  "mobile-security",
+                  "pentesting",
+                  "reverse-engineering",
+                  "ssl-pinning",
+                  "ssl-pinning-bypass",
+                  "zygisk",
+                  "zygisk-module"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -746,12 +1202,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mobile runtime detection workbench for AI (iOS and Android)",
+                "homepage": null,
                 "id": 1216569752,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T04:46:41Z",
+                "open_issues": 8,
                 "owner": "vwww-droid",
                 "repo": "Mira",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "android-security-tools",
+                  "frida",
+                  "frida-gadget",
+                  "frida-script",
+                  "ios-security-tool",
+                  "mcp-client",
+                  "mcp-server",
+                  "mcp-tools",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -762,12 +1233,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The MPT (Mobile Pentest Toolkit) is a must-have solution for your android penetration testing workflow.",
+                "homepage": "https://bytesnipers.com",
                 "id": 752803817,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-15T02:48:50Z",
+                "open_issues": 0,
                 "owner": "ByteSnipers",
                 "repo": "mobile-pentest-toolkit",
-                "stars": 91
+                "stars": 91,
+                "topics": [
+                  "android",
+                  "android-pentest",
+                  "android-pentesting",
+                  "mobile",
+                  "mobile-pentest",
+                  "mobile-pentest-toolkit",
+                  "pentest-android",
+                  "pentest-tool"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -778,12 +1263,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python API Monitor for Android apps",
+                "homepage": null,
                 "id": 241664741,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-04T11:06:44Z",
+                "open_issues": 3,
                 "owner": "0xdad0",
                 "repo": "PAPIMonitor",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "android",
+                  "api",
+                  "cli",
+                  "dynamic-analysis",
+                  "frida",
+                  "instrumentation",
+                  "monitoring",
+                  "papi"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -794,12 +1293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool used for dumping memory from Android devices",
+                "homepage": null,
                 "id": 37227483,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2015-06-12T18:15:14Z",
+                "open_issues": 0,
                 "owner": "MobileForensicsResearch",
                 "repo": "mem",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -810,12 +1314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Fork of Auditd geared specifically for running on the Android platform. Includes system applications, AOSP patches, and kernel patches to maximize the audit experience.",
+                "homepage": null,
                 "id": 5408151,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2013-05-09T14:19:30Z",
+                "open_issues": 2,
                 "owner": "drwhomphd",
                 "repo": "AuditdAndroid",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -826,12 +1335,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Practical security policy enforcement for Android apps via bytecode rewriting and in-place reference monitor",
+                "homepage": null,
                 "id": 25782636,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2015-01-18T15:18:24Z",
+                "open_issues": 0,
                 "owner": "xurubin",
                 "repo": "aurasium",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -842,12 +1356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "linux version (rewrite in Python)",
+                "homepage": null,
                 "id": 27030643,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-05-13T09:43:21Z",
+                "open_issues": 0,
                 "owner": "zhengmin1989",
                 "repo": "DroidAnalytics",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -858,12 +1377,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StaDynA: Addressing the Problem of Dynamic Code Updates in the Security Analysis of Android Applications",
+                "homepage": null,
                 "id": 31768132,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-01T12:05:18Z",
+                "open_issues": 0,
                 "owner": "zyrikby",
                 "repo": "StaDynA",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "android",
+                  "android-security",
+                  "dynamic-analysis",
+                  "java",
+                  "python",
+                  "research",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -874,12 +1406,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Authorized Android pentest lab, drivable by hand or by AI — Frida bypass chain, live traffic capture with automatic IDOR flagging, full MCP control plane, web dashboard.",
+                "homepage": null,
                 "id": 1326661391,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T12:22:40Z",
+                "open_issues": 0,
                 "owner": "blackfoxxx",
                 "repo": "Mobix",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "android-security",
+                  "appsec",
+                  "bug-bounty",
+                  "claude-code",
+                  "frida",
+                  "mcp",
+                  "mitmproxy",
+                  "mobile-security",
+                  "model-context-protocol",
+                  "penetration-testing",
+                  "pentest-tool",
+                  "reverse-engineering",
+                  "root-detection",
+                  "security-tools",
+                  "ssl-pinning-bypass"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -897,12 +1450,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dex to Java decompiler",
+                "homepage": null,
                 "id": 8859474,
                 "language": "Java",
-                "last_commit": "2026-08-19T18:52:12Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:10Z",
+                "open_issues": 443,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50246
+                "stars": 50251,
+                "topics": [
+                  "android",
+                  "decompiler",
+                  "dex",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -913,12 +1476,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for reverse engineering Android apk files",
+                "homepage": "https://apktool.org",
                 "id": 3766706,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T10:30:33Z",
+                "open_issues": 81,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25400
+                "stars": 25403,
+                "topics": [
+                  "9patch",
+                  "android",
+                  "apk",
+                  "apktool",
+                  "arsc",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -929,12 +1504,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX-like reverse engineering framework and command-line toolset",
+                "homepage": "https://www.radare.org",
                 "id": 4869294,
                 "language": "C",
-                "last_commit": "2026-08-28T12:49:25Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T01:30:06Z",
+                "open_issues": 824,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24670
+                "stars": 24674,
+                "topics": [
+                  "binary-analysis",
+                  "c",
+                  "commandline",
+                  "disassembler",
+                  "forensics",
+                  "hacktoberfest",
+                  "malware-analysis",
+                  "radare2",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -945,12 +1536,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java 8+ Jar & Android APK Reverse Engineering Suite (Decompiler, Editor, Debugger & More)",
+                "homepage": "https://bytecodeviewer.com",
                 "id": 25201361,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-17T04:48:36Z",
+                "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15617
+                "stars": 15617,
+                "topics": [
+                  "android",
+                  "apk",
+                  "baksmali",
+                  "bytecode",
+                  "bytecode-viewer",
+                  "cfr",
+                  "compiler",
+                  "decompiler",
+                  "dex2jar",
+                  "fernflower",
+                  "hacktoberfest",
+                  "java",
+                  "java-decompiler",
+                  "jsp",
+                  "krakatau",
+                  "procyon",
+                  "recompiler",
+                  "smali",
+                  "static-analysis",
+                  "war"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -961,12 +1578,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone Java Decompiler GUI",
+                "homepage": null,
                 "id": 32844456,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-08T18:45:59Z",
+                "open_issues": 248,
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15181
+                "stars": 15182,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -977,12 +1599,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools to work with android .dex and java .class files",
+                "homepage": null,
                 "id": 32313383,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-21T06:08:25Z",
+                "open_issues": 379,
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13136
+                "stars": 13137,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -993,12 +1620,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+                "homepage": "https://mvt.re",
                 "id": 386524895,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T03:02:23Z",
+                "open_issues": 46,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 12977
+                "stars": 12981,
+                "topics": [
+                  "android",
+                  "forensics",
+                  "forensics-tools",
+                  "ios",
+                  "mobile",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1009,12 +1648,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "smali/baksmali",
+                "homepage": null,
                 "id": 5925560,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-01-17T22:59:22Z",
+                "open_issues": 143,
                 "owner": "JesusFreke",
                 "repo": "smali",
-                "stars": 6628
+                "stars": 6628,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1025,12 +1669,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reverse engineering and pentesting for Android applications ",
+                "homepage": "https://ismyphonepwned.com/droid2web/",
                 "id": 23953531,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T17:59:02Z",
+                "open_issues": 45,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6211
+                "stars": 6214,
+                "topics": [
+                  "android",
+                  "dalvik",
+                  "dex",
+                  "odex",
+                  "pentesting",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1041,12 +1697,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+                "homepage": "https://phonesploitpro.vercel.app",
                 "id": 581884183,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T07:28:17Z",
+                "open_issues": 3,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6126
+                "stars": 6130,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-debug-bridge",
+                  "android-hacking",
+                  "collaborate",
+                  "cybersecurity",
+                  "exploit",
+                  "hack",
+                  "hacking",
+                  "hacking-script",
+                  "hacking-tool",
+                  "hacktoberfest",
+                  "metasploit-framework",
+                  "meterpreter",
+                  "penetration-testing",
+                  "pentest-tool",
+                  "pentesting",
+                  "phonesploit",
+                  "phonesploit-pro",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1057,12 +1739,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 A CLI application that automatically prepares Android APK files for HTTPS inspection",
+                "homepage": "https://npm.im/apk-mitm",
                 "id": 213055485,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-07-24T18:34:52Z",
+                "open_issues": 83,
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5094
+                "stars": 5096,
+                "topics": [
+                  "android",
+                  "apk",
+                  "apktool",
+                  "certificate-pinning",
+                  "cli",
+                  "man-in-the-middle",
+                  "mitm",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1073,12 +1769,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android virtual machine and deobfuscator",
+                "homepage": null,
                 "id": 15958676,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2022-04-30T12:20:33Z",
+                "open_issues": 32,
                 "owner": "CalebFenton",
                 "repo": "simplify",
-                "stars": 4657
+                "stars": 4657,
+                "topics": [
+                  "android",
+                  "android-malware",
+                  "dalvik",
+                  "deobfuscation",
+                  "deobfuscator",
+                  "emulator",
+                  "java",
+                  "malware",
+                  "malware-analysis",
+                  "malware-analyzer",
+                  "malware-research",
+                  "optimization",
+                  "reverse-engineer-apk",
+                  "reverse-engineering",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1089,12 +1806,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Decompiler from Java bytecode to Java, used in IntelliJ IDEA.",
+                "homepage": "https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine",
                 "id": 24747351,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T14:21:00Z",
+                "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4374
+                "stars": 4374,
+                "topics": [
+                  "decompiler",
+                  "java",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1105,12 +1831,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Reverse-Engineering Workbench for VS Code",
+                "homepage": "https://apklab.surendrajat.xyz",
                 "id": 262621320,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-16T06:15:21Z",
+                "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 3953
+                "stars": 3953,
+                "topics": [
+                  "android",
+                  "apk-decompiler",
+                  "apk-editor",
+                  "apk-studio",
+                  "apksigner",
+                  "apktool",
+                  "app-analyzer",
+                  "bytecode",
+                  "dalvik",
+                  "https-inspection",
+                  "jadx",
+                  "malware-analysis",
+                  "malware-detection",
+                  "mitm",
+                  "reverse-engineering",
+                  "smali",
+                  "smalidea",
+                  "uber-apk-signer"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1121,12 +1871,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 36819593,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-11-06T18:45:36Z",
+                "open_issues": 8,
                 "owner": "google",
                 "repo": "enjarify",
-                "stars": 2747
+                "stars": 2747,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1137,12 +1892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java decompiler, assembler, and disassembler",
+                "homepage": null,
                 "id": 6304196,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-07T03:40:10Z",
+                "open_issues": 25,
                 "owner": "Storyyeller",
                 "repo": "Krakatau",
-                "stars": 2245
+                "stars": 2245,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1153,12 +1913,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Full featured multi arch/os debugger built on top of PyQt5 and frida",
+                "homepage": null,
                 "id": 162325852,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-05-16T07:32:52Z",
+                "open_issues": 5,
                 "owner": "iGio90",
                 "repo": "Dwarf",
-                "stars": 1318
+                "stars": 1318,
+                "topics": [
+                  "android",
+                  "capstone-engine",
+                  "cracking",
+                  "frida",
+                  "ios",
+                  "keystone-engine",
+                  "linux",
+                  "pyqt5",
+                  "reverse-engineering",
+                  "unicorn-emulator",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1169,12 +1946,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An automatic obfuscation tool for Android apps that works in a black-box fashion, supports advanced obfuscation features and has a modular architecture easily extensible with new techniques",
+                "homepage": null,
                 "id": 202535048,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-27T12:16:20Z",
+                "open_issues": 0,
                 "owner": "ClaudiuGeorgiu",
                 "repo": "Obfuscapk",
-                "stars": 1272
+                "stars": 1272,
+                "topics": [
+                  "android",
+                  "apk",
+                  "apktool",
+                  "app",
+                  "application",
+                  "black-box",
+                  "obfuscapk",
+                  "obfuscation",
+                  "smali"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1185,12 +1977,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Andromeda - Interactive Reverse Engineering Tool for Android Applications",
+                "homepage": null,
                 "id": 210170349,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-14T23:19:02Z",
+                "open_issues": 0,
                 "owner": "secrary",
                 "repo": "Andromeda",
-                "stars": 714
+                "stars": 714,
+                "topics": [
+                  "android",
+                  "apk",
+                  "binary-analysis",
+                  "reverse-engineering",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1201,12 +2004,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Debugging Library",
+                "homepage": null,
                 "id": 1585489,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2016-07-30T04:57:22Z",
+                "open_issues": 16,
                 "owner": "swdunlop",
                 "repo": "AndBug",
-                "stars": 599
+                "stars": 599,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1217,12 +2025,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security profiling for blackbox Android",
+                "homepage": "http://isecpartners.github.io/Introspy-Android/",
                 "id": 15100309,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2014-01-13T10:37:11Z",
+                "open_issues": 11,
                 "owner": "iSECPartners",
                 "repo": "Introspy-Android",
-                "stars": 490
+                "stars": 490,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1233,12 +2046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Framework for Exploitation, is a framework for exploiting android based devices",
+                "homepage": null,
                 "id": 6749508,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2015-09-27T10:08:30Z",
+                "open_issues": 16,
                 "owner": "appknox",
                 "repo": "AFE",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1249,12 +2067,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for Frida -Scripts ",
+                "homepage": null,
                 "id": 62171810,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2016-11-03T11:23:25Z",
+                "open_issues": 2,
                 "owner": "antojoseph",
                 "repo": "diff-gui",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "diff-gui",
+                  "frida",
+                  "frida-server",
+                  "gui"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1265,12 +2093,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Redexer binary instrumentation framework for Dalvik bytecode",
+                "homepage": "http://www.cs.umd.edu/projects/PL/redexer/",
                 "id": 5418272,
                 "language": "Smali",
+                "license": "NOASSERTION",
                 "last_commit": "2021-05-20T15:58:07Z",
+                "open_issues": 7,
                 "owner": "plum-umd",
                 "repo": "redexer",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "bytecode-manipulation",
+                  "dalvik",
+                  "dex",
+                  "dynamic-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1281,12 +2119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make any application debuggable",
+                "homepage": null,
                 "id": 14568908,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2013-12-14T18:26:21Z",
+                "open_issues": 0,
                 "owner": "iSECPartners",
                 "repo": "Android-OpenDebug",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1297,12 +2140,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[WIP] Simple mobile applications sandbox file browser tool. Powered with [frida.re](https://www.frida.re).",
+                "homepage": null,
                 "id": 271393003,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2020-11-27T14:36:31Z",
+                "open_issues": 3,
                 "owner": "0x742",
                 "repo": "noia",
-                "stars": 127
+                "stars": 127,
+                "topics": [
+                  "android",
+                  "android-security",
+                  "android-tools",
+                  "frida",
+                  "hacking-tools",
+                  "ios",
+                  "ios-security",
+                  "ios-tools",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1313,12 +2172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android small footprint inspection tool",
+                "homepage": null,
                 "id": 7365525,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2014-10-25T10:36:47Z",
+                "open_issues": 1,
                 "owner": "sysdream",
                 "repo": "fino",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1329,12 +2193,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run arbitrary code by patching OAT files",
+                "homepage": null,
                 "id": 293629531,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-13T14:21:33Z",
+                "open_issues": 10,
                 "owner": "giacomoferretti",
                 "repo": "odex-patcher",
-                "stars": 106
+                "stars": 106,
+                "topics": [
+                  "android",
+                  "android-app",
+                  "android-art",
+                  "android-modding",
+                  "app",
+                  "art",
+                  "art-runtime",
+                  "dalvik",
+                  "kotlin",
+                  "kotlin-android",
+                  "modding",
+                  "oat",
+                  "oat-patcher",
+                  "odex",
+                  "odex-patcher",
+                  "vdex",
+                  "vdex-patcher"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1345,12 +2232,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bypass signature and permission checks for IPCs",
+                "homepage": null,
                 "id": 15100276,
                 "language": "Java",
+                "license": "GPL-2.0",
                 "last_commit": "2013-12-19T01:28:01Z",
+                "open_issues": 1,
                 "owner": "iSECPartners",
                 "repo": "Android-KillPermAndSigChecks",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1361,12 +2253,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 766837690,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-05T12:34:41Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "dexmod",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1377,12 +2274,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Smali/Baksmali mode for Emacs",
+                "homepage": "http://www.strazzere.com/blog",
                 "id": 1451072,
                 "language": "Smali",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-22T21:03:14Z",
+                "open_issues": 0,
                 "owner": "strazzere",
                 "repo": "Emacs-Smali",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1393,12 +2295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARMANDroid - anti-repackaging tool for Android apps",
+                "homepage": null,
                 "id": 321385019,
                 "language": "Dockerfile",
+                "license": "AGPL-3.0",
                 "last_commit": "2020-12-18T08:12:21Z",
+                "open_issues": 1,
                 "owner": "Mobile-IoT-Security-Lab",
                 "repo": "ARMANDroid",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1416,12 +2323,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)",
+                "homepage": "https://honggfuzz.dev",
                 "id": 35228769,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-19T13:47:59Z",
+                "open_issues": 30,
                 "owner": "google",
                 "repo": "honggfuzz",
-                "stars": 3376
+                "stars": 3376,
+                "topics": [
+                  "c",
+                  "fuzzing",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1432,12 +2348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Media Fuzzing Framework for Android",
+                "homepage": null,
                 "id": 29590907,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2016-04-01T16:24:59Z",
+                "open_issues": 0,
                 "owner": "fuzzing",
                 "repo": "MFFA",
-                "stars": 335
+                "stars": 335,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1448,12 +2369,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 629954909,
                 "language": "C",
+                "license": null,
                 "last_commit": "2023-05-01T09:43:39Z",
+                "open_issues": 2,
                 "owner": "quarkslab",
                 "repo": "android-fuzzing",
-                "stars": 142
+                "stars": 142,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1464,12 +2390,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Android port of radamsa fuzzer",
+                "homepage": "https://code.google.com/p/ouspg/wiki/Radamsa",
                 "id": 21905600,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2019-12-24T11:38:27Z",
+                "open_issues": 0,
                 "owner": "anestisb",
                 "repo": "radamsa-android",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1480,12 +2411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "  An Android port of the melkor ELF fuzzer",
+                "homepage": null,
                 "id": 23172185,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2014-08-21T03:09:07Z",
+                "open_issues": 0,
                 "owner": "anestisb",
                 "repo": "melkor-android",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1496,12 +2432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fuzzing utility for Android that focuses on reporting and delivery portions of the fuzzing process",
+                "homepage": null,
                 "id": 23683056,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2014-09-04T23:33:47Z",
+                "open_issues": 1,
                 "owner": "jonmetz",
                 "repo": "AndroFuzz",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1519,12 +2460,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast detection of repackaged Android applications based on the comparison of resource files included into the package.",
+                "homepage": null,
                 "id": 19306785,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-04-01T11:59:18Z",
+                "open_issues": 1,
                 "owner": "zyrikby",
                 "repo": "FSquaDRA",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "android",
+                  "android-security",
+                  "java",
+                  "repackaging-detection",
+                  "research"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1542,12 +2494,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A command line tool to download Android applications directly from the Google Play Store by specifying their package name (an initial one-time configuration is required)",
+                "homepage": null,
                 "id": 100208095,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-27T12:07:16Z",
+                "open_issues": 0,
                 "owner": "ClaudiuGeorgiu",
                 "repo": "PlaystoreDownloader",
-                "stars": 1193
+                "stars": 1193,
+                "topics": [
+                  "android",
+                  "apk",
+                  "downloader",
+                  "google",
+                  "playstore"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1558,12 +2521,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Google Play Unofficial Python API - This project was a PoC and is not maintained anymore. Please feel free to fork it and improve it in any way.",
+                "homepage": null,
                 "id": 5717293,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-05-24T15:47:15Z",
+                "open_issues": 65,
                 "owner": "egirault",
                 "repo": "googleplay-api",
-                "stars": 897
+                "stars": 898,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1574,12 +2542,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Play with Google Play API :)",
+                "homepage": null,
                 "id": 6774306,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-15T00:53:28Z",
+                "open_issues": 61,
                 "owner": "Akdeniz",
                 "repo": "google-play-crawler",
-                "stars": 595
+                "stars": 595,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1590,12 +2563,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Get details and download apps from https://play.google.com by emulating an Android (Nexus 5X) device by default. For a rust version of this library check out https://github.com/dweinstein/rs-google-play",
+                "homepage": null,
                 "id": 25884434,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-05-06T19:05:41Z",
+                "open_issues": 17,
                 "owner": "dweinstein",
                 "repo": "node-google-play",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "android",
+                  "apk",
+                  "download",
+                  "google",
+                  "metadata",
+                  "nodejs",
+                  "play-store"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1606,12 +2592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aptoide app store APK download",
+                "homepage": null,
                 "id": 40017632,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-07-31T20:25:38Z",
+                "open_issues": 2,
                 "owner": "dweinstein",
                 "repo": "node-aptoide",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1622,12 +2613,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "appland client",
+                "homepage": null,
                 "id": 39919943,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2015-07-30T00:03:27Z",
+                "open_issues": 0,
                 "owner": "dweinstein",
                 "repo": "node-appland",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1645,12 +2641,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+                "homepage": "https://mitmproxy.org",
                 "id": 519832,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T23:39:26Z",
+                "open_issues": 464,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 44836
+                "stars": 44840,
+                "topics": [
+                  "debugging",
+                  "http",
+                  "http2",
+                  "man-in-the-middle",
+                  "mitmproxy",
+                  "proxy",
+                  "python",
+                  "security",
+                  "ssl",
+                  "tls",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1661,12 +2674,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Documentation:",
+                "homepage": "http://dpnishant.github.io/appmon",
                 "id": 57376133,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-05-01T20:29:15Z",
+                "open_issues": 38,
                 "owner": "dpnishant",
                 "repo": "appmon",
-                "stars": 1631
+                "stars": 1631,
+                "topics": [
+                  "android",
+                  "appmon",
+                  "frida",
+                  "instrumentation",
+                  "ios-app",
+                  "macos-app",
+                  "mobile-security",
+                  "reverse-engineering",
+                  "security-tools"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1677,12 +2705,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let's take a pulse on the state of Android security. NowSecure presents an on-device app to test for recent device vulnerabilities.",
+                "homepage": null,
                 "id": 40509121,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2019-08-02T06:44:40Z",
+                "open_issues": 24,
                 "owner": "AndroidVTS",
                 "repo": "android-vts",
-                "stars": 1034
+                "stars": 1034,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1693,12 +2726,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of android Exploits and Hacks",
+                "homepage": null,
                 "id": 145540149,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2019-10-08T15:53:07Z",
+                "open_issues": 5,
                 "owner": "sundaysec",
                 "repo": "Android-Exploits",
-                "stars": 1011
+                "stars": 1011,
+                "topics": [
+                  "android",
+                  "android-architecture",
+                  "dos",
+                  "exploit",
+                  "exploits",
+                  "hacking"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1709,12 +2754,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bluetooth experimentation framework for Broadcom and Cypress chips.",
+                "homepage": null,
                 "id": 147357670,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-08-21T15:45:36Z",
+                "open_issues": 21,
                 "owner": "seemoo-lab",
                 "repo": "internalblue",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "android",
+                  "ble",
+                  "bluetooth",
+                  "bluez",
+                  "broadcom",
+                  "cypress",
+                  "firmware",
+                  "ios",
+                  "linux",
+                  "macos",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1725,12 +2787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract given archive to images",
+                "homepage": null,
                 "id": 277184338,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T06:43:30Z",
+                "open_issues": 5,
                 "owner": "AndroidDumps",
                 "repo": "Firmware_extractor",
-                "stars": 363
+                "stars": 363,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1741,12 +2808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
+                "homepage": null,
                 "id": 978365261,
                 "language": "C",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T23:17:48Z",
+                "open_issues": 12,
                 "owner": "R0rt1z2",
                 "repo": "kaeru",
-                "stars": 297
+                "stars": 297,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1757,12 +2829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bash completion for \"adb\" from the Google Android SDK",
+                "homepage": null,
                 "id": 138476,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-11-22T21:34:10Z",
+                "open_issues": 5,
                 "owner": "mbrubeck",
                 "repo": "android-completion",
-                "stars": 262
+                "stars": 262,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1773,12 +2850,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android Mobile Device Hardening",
+                "homepage": null,
                 "id": 276580133,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-26T14:36:42Z",
+                "open_issues": 0,
                 "owner": "A-YATTA",
                 "repo": "AMDH",
-                "stars": 223
+                "stars": 223,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-hardening",
+                  "android-malware-detection",
+                  "android-security",
+                  "apk",
+                  "forensic",
+                  "hardening",
+                  "scan-settings",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1789,12 +2882,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radio frequency scanner with recon and offensive capabilities",
+                "homepage": null,
                 "id": 1247520017,
                 "language": "Kotlin",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T05:40:35Z",
+                "open_issues": 3,
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 148
+                "stars": 148,
+                "topics": [
+                  "android",
+                  "app",
+                  "bluetooth",
+                  "cellular",
+                  "gnss",
+                  "grapheneos",
+                  "jetpack-compose",
+                  "kotlin",
+                  "material3",
+                  "network",
+                  "pentesting",
+                  "privacy",
+                  "radio-frequency",
+                  "scan",
+                  "security",
+                  "wifi"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1805,12 +2920,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible playground for Android CTF challenges.",
+                "homepage": "https://droidground.com",
                 "id": 973730580,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-25T07:14:52Z",
+                "open_issues": 0,
                 "owner": "SECFORCE",
                 "repo": "droidground",
-                "stars": 117
+                "stars": 117,
+                "topics": [
+                  "android",
+                  "ctf",
+                  "cybersecurity",
+                  "playground"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1821,12 +2946,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "docker file for use with androguard python android app analysis tool",
+                "homepage": null,
                 "id": 19073468,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-29T02:02:31Z",
+                "open_issues": 1,
                 "owner": "dweinstein",
                 "repo": "dockerfile-androguard",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1837,12 +2967,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NullKia Mobile Security Framework - Tools in Nim, Crystal, V, D, Red, Odin, Haxe, Zig, Kotlin, Lua, PHP, Python | bad-antics | github.com/bad-antics",
+                "homepage": "https://github.com/bad-antics/nullkia#-overview",
                 "id": 1139350972,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-17T23:37:49Z",
+                "open_issues": 5,
                 "owner": "bad-antics",
                 "repo": "nullkia",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "android",
+                  "android-hacking",
+                  "baseband",
+                  "bootloader-unlock",
+                  "checkm8",
+                  "crystal",
+                  "firmware-hacking",
+                  "haxe",
+                  "infosec",
+                  "ios-jailbreak",
+                  "mobile-security",
+                  "nim",
+                  "nullkia",
+                  "nullsec",
+                  "odin-lang",
+                  "penetration-testing",
+                  "samsung-knox",
+                  "security-framework",
+                  "unusual-languages",
+                  "vlang"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1860,12 +3016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulnerable Android application for developers and security enthusiasts to learn about Android insecurities",
+                "homepage": null,
                 "id": 23531232,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-04-17T12:40:37Z",
+                "open_issues": 17,
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1471
+                "stars": 1471,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1876,12 +3037,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DIVA Android - Damn Insecure and vulnerable App for Android",
+                "homepage": null,
                 "id": 49703655,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2023-05-19T21:04:24Z",
+                "open_issues": 13,
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1140
+                "stars": 1140,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1892,12 +3058,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.",
+                "homepage": null,
                 "id": 112266165,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2021-06-25T04:04:14Z",
+                "open_issues": 0,
                 "owner": "B3nac",
                 "repo": "InjuredAndroid",
-                "stars": 764
+                "stars": 764,
+                "topics": [
+                  "android",
+                  "android-security",
+                  "android-studio",
+                  "apk",
+                  "bug-bounty",
+                  "ctf",
+                  "flutter",
+                  "flutter-security",
+                  "flutter-xss",
+                  "kotlin",
+                  "kotlin-android",
+                  "pentesting",
+                  "security-testing",
+                  "vulnerabilities",
+                  "webview"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1908,12 +3095,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oversecured Vulnerable Android App",
+                "homepage": "https://oversecured.com",
                 "id": 256492557,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-07-18T00:33:14Z",
+                "open_issues": 1,
                 "owner": "oversecured",
                 "repo": "ovaa",
-                "stars": 755
+                "stars": 755,
+                "topics": [
+                  "android-security",
+                  "appsec",
+                  "mobile-security",
+                  "vulnerable-android-apps",
+                  "vulnerable-application"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1924,12 +3122,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Intentionally designed Vulnerable Android Application built in Kotlin.",
+                "homepage": "https://www.insecureshopapp.com",
                 "id": 371128562,
                 "language": "Kotlin",
+                "license": "MIT",
                 "last_commit": "2022-03-02T07:35:32Z",
+                "open_issues": 2,
                 "owner": "optiv",
                 "repo": "InsecureShop",
-                "stars": 260
+                "stars": 260,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1940,12 +3143,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "*This project is no longer maintained* OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. The project currently includes two applications: FourGoats, a location-based social network, and Herd Financial, a mobile banking application. There are also several feature that greatly simplify usage within a training environment or for absolute beginners who want a good introduction to working with the Android platform. Download the built version here: https://github.com/jackMannino/OWASP-GoatDroid-Project/downloads",
+                "homepage": null,
                 "id": 3612375,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2014-07-29T01:13:15Z",
+                "open_issues": 11,
                 "owner": "nvisium-jack-mannino",
                 "repo": "OWASP-GoatDroid-Project",
-                "stars": 256
+                "stars": 256,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -1956,12 +3164,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vuldroid is a Vulnerable Android Application made with security issues in order to demonstrate how they can occur in code",
+                "homepage": null,
                 "id": 291808861,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2021-09-18T08:25:30Z",
+                "open_issues": 1,
                 "owner": "jaiswalakshansh",
                 "repo": "Vuldroid",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "android-application",
+                  "android-security",
+                  "application-security",
+                  "deeplink",
+                  "vulnerable-application",
+                  "webview-xss"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -1985,12 +3205,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 26637047,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-08-16T14:03:08Z",
+                "open_issues": 0,
                 "owner": "jacobsoo",
                 "repo": "AndroidSlides",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -2008,12 +3233,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OWASP Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the OWASP Mobile Security Weakness Enumeration (MASWE) weaknesses, which are in alignment with the OWASP MASVS.",
+                "homepage": "http://mas.owasp.org/",
                 "id": 69648386,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-28T08:29:53Z",
+                "open_issues": 236,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13141
+                "stars": 13143,
+                "topics": [
+                  "android",
+                  "android-application",
+                  "compliancy-checklist",
+                  "dynamic-analysis",
+                  "hacking",
+                  "ios",
+                  "ios-app",
+                  "mast",
+                  "mastg",
+                  "mobile-app",
+                  "mobile-security",
+                  "mstg",
+                  "network-analysis",
+                  "pentesting",
+                  "reverse-engineering",
+                  "reverse-enginnering",
+                  "runtime-analysis",
+                  "static-analysis",
+                  "testing-cryptography"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -2024,12 +3274,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Mobile App Pentest cheat sheet was created to provide concise collection of high value information on specific mobile application penetration testing topics.",
+                "homepage": null,
                 "id": 43485323,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-02-08T14:18:04Z",
+                "open_issues": 17,
                 "owner": "tanprathan",
                 "repo": "MobileApp-Pentest-Cheatsheet",
-                "stars": 5257
+                "stars": 5259,
+                "topics": [
+                  "android-application",
+                  "dynamic-analysis",
+                  "ios-app",
+                  "mobile-app",
+                  "network-analysis",
+                  "pentesting",
+                  "reverse-engineers",
+                  "runtime-analysis",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -2040,12 +3305,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A W.I.P Android Security Ref",
+                "homepage": null,
                 "id": 53396246,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-24T13:39:15Z",
+                "open_issues": 5,
                 "owner": "doridori",
                 "repo": "Android-Security-Reference",
-                "stars": 993
+                "stars": 993,
+                "topics": [
+                  "android",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             },
@@ -2056,12 +3329,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Android App Security Checklist",
+                "homepage": null,
                 "id": 97360377,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-08-27T08:12:39Z",
+                "open_issues": 6,
                 "owner": "muellerberndt",
                 "repo": "android_app_security_checklist",
-                "stars": 891
+                "stars": 891,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -2085,12 +3363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of android malware samples",
+                "homepage": null,
                 "id": 57279386,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2025-12-31T06:45:45Z",
+                "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-malware",
-                "stars": 1223
+                "stars": 1223,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -2108,12 +3391,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A big list of Android Hackerone disclosed reports and other resources. ",
+                "homepage": null,
                 "id": 111239706,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-10T21:34:51Z",
+                "open_issues": 0,
                 "owner": "B3nac",
                 "repo": "Android-Reports-and-Resources",
-                "stars": 1708
+                "stars": 1708,
+                "topics": [
+                  "android",
+                  "android-repo",
+                  "android-resource",
+                  "android-security",
+                  "bugbounty",
+                  "bypass",
+                  "hackerone",
+                  "infosec",
+                  "insecure-data-storage",
+                  "intercept-broadcasts",
+                  "steal-files",
+                  "webview",
+                  "xss"
+                ]
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
             }
@@ -2127,15 +3429,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:24:46.950Z",
+    "last_updated": "2026-08-29T04:13:09.663Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of android security related resources",
+      "homepage": null,
       "id": 22117770,
       "language": "Makefile",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-21T18:33:19Z",
+      "open_issues": 0,
       "owner": "ashishb",
       "repo": "android-security-awesome",
-      "stars": 9648
+      "stars": 9649,
+      "topics": [
+        "android",
+        "awesome",
+        "awesome-list",
+        "list",
+        "security"
+      ]
     },
     "original_repository_sha": "637b00fb2e6018342da23adb6eb2d3318063b526",
     "enhanced_repository": "enhansome/android-security-enhansome",
