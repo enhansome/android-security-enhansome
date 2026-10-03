@@ -85,7 +85,7 @@
                 "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6327,
+                "stars": 6328,
                 "topics": [
                   "android-security",
                   "apk",
@@ -130,7 +130,7 @@
             {
               "node_type": "item",
               "title": "ApkAnalyser",
-              "description": null,
+              "description": "sonyxperiadev/ApkAnalyser",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -178,7 +178,7 @@
             {
               "node_type": "item",
               "title": "APKInspector",
-              "description": null,
+              "description": "honeynet/apkinspector",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
                 "open_issues": 5,
                 "owner": "maldroid",
                 "repo": "maldrolyzer",
-                "stars": 113,
+                "stars": 114,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -489,7 +489,7 @@
             {
               "node_type": "item",
               "title": "DroidRA",
-              "description": null,
+              "description": "serval-snt-uni-lu/DroidRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "Nogotofail",
-              "description": null,
+              "description": "google/nogotofail",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -559,7 +559,7 @@
             {
               "node_type": "item",
               "title": "AndroBugs",
-              "description": null,
+              "description": "AndroBugs/AndroBugs_Framework",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -600,7 +600,7 @@
                 "open_issues": 13,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21865,
+                "stars": 21869,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Drozer",
-              "description": null,
+              "description": "ReversecLabs/drozer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -671,7 +671,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3098,
+                "stars": 3103,
                 "topics": [
                   "android-security",
                   "frida",
@@ -698,7 +698,7 @@
                 "open_issues": 58,
                 "owner": "ac-pm",
                 "repo": "Inspeckage",
-                "stars": 2988,
+                "stars": 2987,
                 "topics": [
                   "android-application",
                   "dynamic-analysis",
@@ -745,7 +745,7 @@
                 "open_issues": 12,
                 "owner": "den4uk",
                 "repo": "andriller",
-                "stars": 1614,
+                "stars": 1615,
                 "topics": [
                   "android",
                   "forensics",
@@ -770,7 +770,7 @@
                 "open_issues": 16,
                 "owner": "nccgroup",
                 "repo": "house",
-                "stars": 1468,
+                "stars": 1467,
                 "topics": [
                   "android",
                   "frida",
@@ -865,7 +865,7 @@
             {
               "node_type": "item",
               "title": "Droidbox",
-              "description": null,
+              "description": "pjlantz/droidbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -941,7 +941,7 @@
                 "open_issues": 8,
                 "owner": "fkie-cad",
                 "repo": "friTap",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "android",
                   "android-https-capture",
@@ -1011,7 +1011,7 @@
             {
               "node_type": "item",
               "title": "Android Malware Sandbox",
-              "description": null,
+              "description": "Areizen/Android-Malware-Sandbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1032,7 +1032,7 @@
             {
               "node_type": "item",
               "title": "Android Linux Kernel modules",
-              "description": null,
+              "description": "strazzere/android-lkms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-28T04:47:56Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "vw2x",
                 "repo": "Mira",
                 "stars": 105,
@@ -1446,7 +1446,7 @@
             {
               "node_type": "item",
               "title": "Jadx",
-              "description": null,
+              "description": "skylot/jadx",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1459,7 +1459,7 @@
                 "open_issues": 455,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50705,
+                "stars": 50717,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1485,7 +1485,7 @@
                 "open_issues": 77,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25715,
+                "stars": 25720,
                 "topics": [
                   "9patch",
                   "android",
@@ -1500,7 +1500,7 @@
             {
               "node_type": "item",
               "title": "Radare2",
-              "description": null,
+              "description": "radareorg/radare2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1509,11 +1509,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T06:59:07Z",
+                "last_commit": "2026-10-02T17:13:48Z",
                 "open_issues": 798,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 24910,
+                "stars": 24912,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1532,7 +1532,7 @@
             {
               "node_type": "item",
               "title": "Bytecode viewer",
-              "description": null,
+              "description": "Konloch/bytecode-viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1545,7 +1545,7 @@
                 "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15661,
+                "stars": 15662,
                 "topics": [
                   "android",
                   "apk",
@@ -1608,7 +1608,7 @@
                 "open_issues": 57,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 15133,
+                "stars": 15170,
                 "topics": [
                   "android",
                   "forensics",
@@ -1748,7 +1748,7 @@
                 "open_issues": 83,
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5115,
+                "stars": 5114,
                 "topics": [
                   "android",
                   "apk",
@@ -1765,7 +1765,7 @@
             {
               "node_type": "item",
               "title": "Simplify Android deobfuscator",
-              "description": null,
+              "description": "CalebFenton/simplify",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1815,7 +1815,7 @@
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4413,
+                "stars": 4414,
                 "topics": [
                   "decompiler",
                   "java",
@@ -1840,7 +1840,7 @@
                 "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 3997,
+                "stars": 3998,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -1901,7 +1901,7 @@
                 "open_issues": 26,
                 "owner": "Storyyeller",
                 "repo": "Krakatau",
-                "stars": 2257,
+                "stars": 2258,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -2000,7 +2000,7 @@
             {
               "node_type": "item",
               "title": "AndBug",
-              "description": null,
+              "description": "swdunlop/AndBug",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2021,7 +2021,7 @@
             {
               "node_type": "item",
               "title": "Introspy",
-              "description": null,
+              "description": "iSECPartners/Introspy-Android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2042,7 +2042,7 @@
             {
               "node_type": "item",
               "title": "Android Framework for Exploitation",
-              "description": null,
+              "description": "appknox/AFE",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2168,7 +2168,7 @@
             {
               "node_type": "item",
               "title": "Fino",
-              "description": null,
+              "description": "sysdream/fino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2228,7 +2228,7 @@
             {
               "node_type": "item",
               "title": "Bypass signature and permission checks for IPCs",
-              "description": null,
+              "description": "iSECPartners/Android-KillPermAndSigChecks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2270,7 +2270,7 @@
             {
               "node_type": "item",
               "title": "emacs syntax coloring for smali files",
-              "description": null,
+              "description": "strazzere/Emacs-Smali",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2319,7 +2319,7 @@
             {
               "node_type": "item",
               "title": "Honggfuzz",
-              "description": null,
+              "description": "google/honggfuzz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2332,7 +2332,7 @@
                 "open_issues": 31,
                 "owner": "google",
                 "repo": "honggfuzz",
-                "stars": 3390,
+                "stars": 3391,
                 "topics": [
                   "c",
                   "fuzzing",
@@ -2344,7 +2344,7 @@
             {
               "node_type": "item",
               "title": "Media Fuzzing Framework for Android",
-              "description": null,
+              "description": "fuzzing/MFFA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2365,7 +2365,7 @@
             {
               "node_type": "item",
               "title": "QuarksLab's Android Fuzzing",
-              "description": null,
+              "description": "quarkslab/android-fuzzing",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2386,7 +2386,7 @@
             {
               "node_type": "item",
               "title": "Radamsa Fuzzer",
-              "description": null,
+              "description": "anestisb/radamsa-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2407,7 +2407,7 @@
             {
               "node_type": "item",
               "title": "An Android port of the Melkor ELF fuzzer",
-              "description": null,
+              "description": "anestisb/melkor-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2428,7 +2428,7 @@
             {
               "node_type": "item",
               "title": "AndroFuzz",
-              "description": null,
+              "description": "jonmetz/AndroFuzz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2517,7 +2517,7 @@
             {
               "node_type": "item",
               "title": "Google Play crawler (Python)",
-              "description": null,
+              "description": "egirault/googleplay-api",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2538,7 +2538,7 @@
             {
               "node_type": "item",
               "title": "Google Play crawler (Java)",
-              "description": null,
+              "description": "Akdeniz/google-play-crawler",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2637,7 +2637,7 @@
             {
               "node_type": "item",
               "title": "mitmproxy",
-              "description": null,
+              "description": "mitmproxy/mitmproxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2646,11 +2646,11 @@
                 "id": 519832,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T22:05:44Z",
-                "open_issues": 500,
+                "last_commit": "2026-10-02T10:09:11Z",
+                "open_issues": 492,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 45222,
+                "stars": 45235,
                 "topics": [
                   "debugging",
                   "http",
@@ -2804,7 +2804,7 @@
             {
               "node_type": "item",
               "title": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
-              "description": null,
+              "description": "R0rt1z2/kaeru",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2825,7 +2825,7 @@
             {
               "node_type": "item",
               "title": "adb autocomplete",
-              "description": null,
+              "description": "mbrubeck/android-completion",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2891,7 +2891,7 @@
                 "open_issues": 5,
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 179,
+                "stars": 180,
                 "topics": [
                   "android",
                   "app",
@@ -2984,7 +2984,7 @@
             {
               "node_type": "item",
               "title": "dockerfile/androguard",
-              "description": null,
+              "description": "dweinstein/dockerfile-androguard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3012,7 +3012,7 @@
             {
               "node_type": "item",
               "title": "Android InsecureBank",
-              "description": null,
+              "description": "dineshshetty/Android-InsecureBankv2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3033,7 +3033,7 @@
             {
               "node_type": "item",
               "title": "Damn Insecure Vulnerable Application (DIVA)",
-              "description": null,
+              "description": "payatu/diva-android",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3046,7 +3046,7 @@
                 "open_issues": 13,
                 "owner": "payatu",
                 "repo": "diva-android",
-                "stars": 1147,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -3054,7 +3054,7 @@
             {
               "node_type": "item",
               "title": "Injured Android - CTF",
-              "description": null,
+              "description": "B3nac/InjuredAndroid",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3091,7 +3091,7 @@
             {
               "node_type": "item",
               "title": "Oversecured Vulnerable Android App (OVAA)",
-              "description": null,
+              "description": "oversecured/ovaa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3118,7 +3118,7 @@
             {
               "node_type": "item",
               "title": "Insecureshop",
-              "description": null,
+              "description": "optiv/InsecureShop",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3139,7 +3139,7 @@
             {
               "node_type": "item",
               "title": "GoatDroid",
-              "description": null,
+              "description": "nvisium-jack-mannino/OWASP-GoatDroid-Project",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3160,7 +3160,7 @@
             {
               "node_type": "item",
               "title": "Vuldroid",
-              "description": null,
+              "description": "jaiswalakshansh/Vuldroid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3188,7 +3188,7 @@
             {
               "node_type": "item",
               "title": "Damn Vulnerable Mobile App (DVMA)",
-              "description": null,
+              "description": "cpeoples/dvma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3197,8 +3197,8 @@
                 "id": 1360628525,
                 "language": "Dart",
                 "license": "MIT",
-                "last_commit": "2026-10-01T14:36:00Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-02T08:04:38Z",
+                "open_issues": 0,
                 "owner": "cpeoples",
                 "repo": "dvma",
                 "stars": 3,
@@ -3243,7 +3243,7 @@
             {
               "node_type": "item",
               "title": "Android security-related presentations",
-              "description": null,
+              "description": "jacobsoo/AndroidSlides",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3271,7 +3271,7 @@
             {
               "node_type": "item",
               "title": "OWASP Mobile Security Testing Guide Manual",
-              "description": null,
+              "description": "OWASP/mastg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3281,10 +3281,10 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-01T18:27:28Z",
-                "open_issues": 239,
+                "open_issues": 241,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13215,
+                "stars": 13216,
                 "topics": [
                   "android",
                   "android-application",
@@ -3312,7 +3312,7 @@
             {
               "node_type": "item",
               "title": "Mobile App Pentest Cheat Sheet",
-              "description": null,
+              "description": "tanprathan/MobileApp-Pentest-Cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3343,7 +3343,7 @@
             {
               "node_type": "item",
               "title": "doridori/Android-Security-Reference",
-              "description": null,
+              "description": "doridori/Android-Security-Reference",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3367,7 +3367,7 @@
             {
               "node_type": "item",
               "title": "android app security checklist",
-              "description": null,
+              "description": "muellerberndt/android_app_security_checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3401,7 +3401,7 @@
             {
               "node_type": "item",
               "title": "Android Malware GitHub repo",
-              "description": null,
+              "description": "ashishb/android-malware",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3442,7 +3442,7 @@
                 "open_issues": 1,
                 "owner": "B3nac",
                 "repo": "Android-Reports-and-Resources",
-                "stars": 1714,
+                "stars": 1712,
                 "topics": [
                   "android",
                   "android-repo",
@@ -3471,7 +3471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:34:45.135Z",
+    "last_updated": "2026-10-03T04:20:42.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of android security related resources",
@@ -3483,7 +3483,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "android-security-awesome",
-      "stars": 9722,
+      "stars": 9723,
       "topics": [
         "android",
         "awesome",
