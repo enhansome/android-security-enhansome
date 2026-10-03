@@ -85,7 +85,7 @@
                 "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6328,
+                "stars": 6329,
                 "topics": [
                   "android-security",
                   "apk",
@@ -111,8 +111,8 @@
                 "id": 216696377,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-01T00:09:50Z",
-                "open_issues": 78,
+                "last_commit": "2026-10-03T06:04:28Z",
+                "open_issues": 77,
                 "owner": "ev-flow",
                 "repo": "quark-engine",
                 "stars": 1730,
@@ -212,7 +212,7 @@
                 "open_issues": 22,
                 "owner": "maaaaz",
                 "repo": "androwarn",
-                "stars": 533,
+                "stars": 534,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -671,7 +671,7 @@
                 "open_issues": 10,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3103,
+                "stars": 3104,
                 "topics": [
                   "android-security",
                   "frida",
@@ -698,7 +698,7 @@
                 "open_issues": 58,
                 "owner": "ac-pm",
                 "repo": "Inspeckage",
-                "stars": 2987,
+                "stars": 2986,
                 "topics": [
                   "android-application",
                   "dynamic-analysis",
@@ -1459,7 +1459,7 @@
                 "open_issues": 455,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 50717,
+                "stars": 50720,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1485,7 +1485,7 @@
                 "open_issues": 77,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 25720,
+                "stars": 25721,
                 "topics": [
                   "9patch",
                   "android",
@@ -1509,8 +1509,8 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T17:13:48Z",
-                "open_issues": 798,
+                "last_commit": "2026-10-03T07:08:37Z",
+                "open_issues": 797,
                 "owner": "radareorg",
                 "repo": "radare2",
                 "stars": 24912,
@@ -1608,7 +1608,7 @@
                 "open_issues": 57,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 15170,
+                "stars": 15171,
                 "topics": [
                   "android",
                   "forensics",
@@ -1778,7 +1778,7 @@
                 "open_issues": 33,
                 "owner": "CalebFenton",
                 "repo": "simplify",
-                "stars": 4667,
+                "stars": 4668,
                 "topics": [
                   "android",
                   "android-malware",
@@ -1840,7 +1840,7 @@
                 "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 3998,
+                "stars": 3999,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -2647,7 +2647,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T10:09:11Z",
-                "open_issues": 492,
+                "open_issues": 493,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
                 "stars": 45235,
@@ -2817,7 +2817,7 @@
                 "open_issues": 17,
                 "owner": "R0rt1z2",
                 "repo": "kaeru",
-                "stars": 320,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -3471,7 +3471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:20:42.611Z",
+    "last_updated": "2026-10-03T07:08:53.364Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of android security related resources",
@@ -3483,7 +3483,7 @@
       "open_issues": 0,
       "owner": "ashishb",
       "repo": "android-security-awesome",
-      "stars": 9723,
+      "stars": 9725,
       "topics": [
         "android",
         "awesome",
