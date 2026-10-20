@@ -21,7 +21,7 @@
                 "open_issues": 41,
                 "owner": "google",
                 "repo": "android-classyshark",
-                "stars": 7549,
+                "stars": 7550,
                 "topics": [
                   "analysis",
                   "android",
@@ -49,11 +49,11 @@
                 "id": 71729669,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T05:19:13Z",
-                "open_issues": 186,
+                "last_commit": "2026-10-19T23:13:02Z",
+                "open_issues": 187,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7095,
+                "stars": 7098,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -85,7 +85,7 @@
                 "open_issues": 26,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6355,
+                "stars": 6360,
                 "topics": [
                   "android-security",
                   "apk",
@@ -573,7 +573,7 @@
                 "open_issues": 16,
                 "owner": "AndroBugs",
                 "repo": "AndroBugs_Framework",
-                "stars": 1224,
+                "stars": 1225,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -601,7 +601,7 @@
                 "open_issues": 22,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21987,
+                "stars": 21996,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -642,7 +642,7 @@
                 "open_issues": 19,
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4638,
+                "stars": 4640,
                 "topics": [
                   "android",
                   "drozer",
@@ -672,7 +672,7 @@
                 "open_issues": 12,
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3123,
+                "stars": 3124,
                 "topics": [
                   "android-security",
                   "frida",
@@ -746,7 +746,7 @@
                 "open_issues": 12,
                 "owner": "den4uk",
                 "repo": "andriller",
-                "stars": 1618,
+                "stars": 1619,
                 "topics": [
                   "android",
                   "forensics",
@@ -879,7 +879,7 @@
                 "open_issues": 32,
                 "owner": "pjlantz",
                 "repo": "droidbox",
-                "stars": 810,
+                "stars": 811,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -900,7 +900,7 @@
                 "open_issues": 3,
                 "owner": "xtiankisutsa",
                 "repo": "MARA_Framework",
-                "stars": 672,
+                "stars": 673,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -1457,10 +1457,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-14T22:10:04Z",
-                "open_issues": 457,
+                "open_issues": 458,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 51080,
+                "stars": 51118,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1486,7 +1486,7 @@
                 "open_issues": 77,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 26139,
+                "stars": 26255,
                 "topics": [
                   "9patch",
                   "android",
@@ -1510,11 +1510,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T06:51:52Z",
-                "open_issues": 788,
+                "last_commit": "2026-10-20T06:20:01Z",
+                "open_issues": 794,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25094,
+                "stars": 25104,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1588,7 +1588,7 @@
                 "open_issues": 63,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 15442,
+                "stars": 15454,
                 "topics": [
                   "android",
                   "forensics",
@@ -1616,7 +1616,7 @@
                 "open_issues": 248,
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15209,
+                "stars": 15211,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -1637,7 +1637,7 @@
                 "open_issues": 379,
                 "owner": "pxb1988",
                 "repo": "dex2jar",
-                "stars": 13147,
+                "stars": 13148,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -1679,7 +1679,7 @@
                 "open_issues": 1,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6384,
+                "stars": 6385,
                 "topics": [
                   "adb",
                   "android",
@@ -1721,7 +1721,7 @@
                 "open_issues": 1,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6362,
+                "stars": 6364,
                 "topics": [
                   "android",
                   "dalvik",
@@ -1812,7 +1812,7 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T11:21:46Z",
+                "last_commit": "2026-10-20T03:53:09Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
@@ -1841,7 +1841,7 @@
                 "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 4011,
+                "stars": 4020,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -2647,11 +2647,11 @@
                 "id": 519832,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T18:07:57Z",
-                "open_issues": 504,
+                "last_commit": "2026-10-20T06:25:16Z",
+                "open_issues": 502,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 45734,
+                "stars": 45765,
                 "topics": [
                   "debugging",
                   "http",
@@ -2815,10 +2815,10 @@
                 "language": "C",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-14T17:27:14Z",
-                "open_issues": 22,
+                "open_issues": 24,
                 "owner": "R0rt1z2",
                 "repo": "kaeru",
-                "stars": 332,
+                "stars": 333,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -2892,7 +2892,7 @@
                 "open_issues": 6,
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 188,
+                "stars": 189,
                 "topics": [
                   "android",
                   "app",
@@ -2956,7 +2956,7 @@
                 "open_issues": 6,
                 "owner": "bad-antics",
                 "repo": "nullkia",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "android",
                   "android-hacking",
@@ -3320,7 +3320,7 @@
                 "open_issues": 245,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13263,
+                "stars": 13268,
                 "topics": [
                   "android",
                   "android-application",
@@ -3361,7 +3361,7 @@
                 "open_issues": 16,
                 "owner": "tanprathan",
                 "repo": "MobileApp-Pentest-Cheatsheet",
-                "stars": 5300,
+                "stars": 5304,
                 "topics": [
                   "android-application",
                   "dynamic-analysis",
@@ -3392,7 +3392,7 @@
                 "open_issues": 5,
                 "owner": "doridori",
                 "repo": "Android-Security-Reference",
-                "stars": 995,
+                "stars": 996,
                 "topics": [
                   "android",
                   "security"
@@ -3450,7 +3450,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-malware",
-                "stars": 1231,
+                "stars": 1232,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -3507,7 +3507,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:59:53.383Z",
+    "last_updated": "2026-10-20T06:44:44.487Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of android security related resources",
@@ -3515,11 +3515,11 @@
       "id": 22117770,
       "language": "Makefile",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-19T06:03:55Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-19T19:38:42Z",
+      "open_issues": 0,
       "owner": "ashishb",
       "repo": "android-security-awesome",
-      "stars": 9765,
+      "stars": 9768,
       "topics": [
         "android",
         "awesome",
@@ -3528,7 +3528,7 @@
         "security"
       ]
     },
-    "original_repository_sha": "d5c24375e109923aaaf87fd47dbc77d2916f2695",
+    "original_repository_sha": "b21a710ccf4b6dbd470933105f5d53e9ca5663e0",
     "enhanced_repository": "enhansome/android-security-enhansome",
     "enhanced_repository_description": null,
     "title": "android-security-awesome with stars"
