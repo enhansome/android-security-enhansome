@@ -17,11 +17,11 @@
                 "id": 1209966933,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-23T09:44:12Z",
-                "open_issues": 1331,
+                "last_commit": "2026-11-24T11:38:53Z",
+                "open_issues": 1167,
                 "owner": "morluto",
                 "repo": "rea",
-                "stars": 474757,
+                "stars": 476343,
                 "topics": [
                   "agent-skills",
                   "ai",
@@ -92,10 +92,10 @@
                 "language": "Kotlin",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-23T04:08:07Z",
-                "open_issues": 167,
+                "open_issues": 166,
                 "owner": "detekt",
                 "repo": "detekt",
-                "stars": 7119,
+                "stars": 7121,
                 "topics": [
                   "analysis",
                   "code-quality",
@@ -127,7 +127,7 @@
                 "open_issues": 29,
                 "owner": "dwisiswant0",
                 "repo": "apkleaks",
-                "stars": 6399,
+                "stars": 6400,
                 "topics": [
                   "android-security",
                   "apk",
@@ -605,7 +605,7 @@
                 "open_issues": 79,
                 "owner": "linkedin",
                 "repo": "qark",
-                "stars": 3396,
+                "stars": 3397,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -659,18 +659,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "See what ships inside a Flutter app. Offline, on-device audits for Flutter APKs: libraries, endpoints, exposed strings and package policy, with confirmed facts kept apart from leads. Release-to-release diffs, Dart snapshot evidence, and a JSON/SARIF CLI for CI. No root, no account, no uploads.",
+                "description": "Inspect Flutter APKs with an offline Android app and source-built CLI sharing a Kotlin engine. Confirmed facts stay separate from leads; JSON and SARIF reports support CI workflows.",
                 "homepage": "https://flutterguard.dev/",
                 "id": 1127758942,
                 "language": "Kotlin",
                 "license": "MIT",
-                "last_commit": "2026-11-21T19:40:52Z",
+                "last_commit": "2026-11-23T23:21:48Z",
                 "open_issues": 0,
                 "owner": "anasfik",
                 "repo": "FlutterGuard",
                 "stars": 34,
                 "topics": [
-                  "aab",
                   "agent-skill",
                   "ai-agents",
                   "android",
@@ -688,6 +687,7 @@
                   "openclaw",
                   "openclaw-skill",
                   "reverse-engineering",
+                  "sarif",
                   "security-audit",
                   "static-analysis"
                 ]
@@ -717,7 +717,7 @@
                 "open_issues": 3,
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 22303,
+                "stars": 22316,
                 "topics": [
                   "android-security",
                   "api-testing",
@@ -755,10 +755,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-08T07:54:54Z",
-                "open_issues": 19,
+                "open_issues": 9,
                 "owner": "ReversecLabs",
                 "repo": "drozer",
-                "stars": 4657,
+                "stars": 4658,
                 "topics": [
                   "android",
                   "drozer",
@@ -862,7 +862,7 @@
                 "open_issues": 13,
                 "owner": "den4uk",
                 "repo": "andriller",
-                "stars": 1630,
+                "stars": 1629,
                 "topics": [
                   "android",
                   "forensics",
@@ -1058,7 +1058,7 @@
                 "open_issues": 5,
                 "owner": "fkie-cad",
                 "repo": "friTap",
-                "stars": 576,
+                "stars": 577,
                 "topics": [
                   "android",
                   "android-https-capture",
@@ -1294,27 +1294,6 @@
             },
             {
               "node_type": "item",
-              "title": "Vezir Project",
-              "description": "Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis",
-                "homepage": null,
-                "id": 29240877,
-                "language": null,
-                "license": null,
-                "last_commit": "2016-04-25T17:48:17Z",
-                "open_issues": 3,
-                "owner": "oguzhantopgul",
-                "repo": "Vezir-Project",
-                "stars": 120,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:46.950Z"
-            },
-            {
-              "node_type": "item",
               "title": "Lab-RATS-v1.6",
               "description": "A lightweight Java-based Android Remote Administration Tool featuring a modern web interface for remote device interaction and administrative testing.",
               "children": [],
@@ -1325,11 +1304,11 @@
                 "id": 1359013390,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-11-23T08:27:26Z",
+                "last_commit": "2026-11-24T11:34:20Z",
                 "open_issues": 0,
                 "owner": "K4N3CO",
                 "repo": "Lab-RATS",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "2026",
                   "android",
@@ -1348,6 +1327,27 @@
                 ]
               },
               "first_seen": "2026-11-01T08:14:10.987Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Vezir Project",
+              "description": "Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Yet Another Linux Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis",
+                "homepage": null,
+                "id": 29240877,
+                "language": null,
+                "license": null,
+                "last_commit": "2016-04-25T17:48:17Z",
+                "open_issues": 3,
+                "owner": "oguzhantopgul",
+                "repo": "Vezir-Project",
+                "stars": 120,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:46.950Z"
             },
             {
               "node_type": "item",
@@ -1649,11 +1649,11 @@
                 "id": 8859474,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T22:40:54Z",
-                "open_issues": 468,
+                "last_commit": "2026-11-23T23:51:13Z",
+                "open_issues": 467,
                 "owner": "skylot",
                 "repo": "jadx",
-                "stars": 51964,
+                "stars": 51980,
                 "topics": [
                   "android",
                   "decompiler",
@@ -1679,7 +1679,7 @@
                 "open_issues": 78,
                 "owner": "iBotPeaches",
                 "repo": "Apktool",
-                "stars": 27338,
+                "stars": 27357,
                 "topics": [
                   "9patch",
                   "android",
@@ -1703,11 +1703,11 @@
                 "id": 4869294,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T00:43:07Z",
-                "open_issues": 816,
+                "last_commit": "2026-11-24T08:27:57Z",
+                "open_issues": 812,
                 "owner": "radareorg",
                 "repo": "radare2",
-                "stars": 25494,
+                "stars": 25499,
                 "topics": [
                   "binary-analysis",
                   "c",
@@ -1735,11 +1735,11 @@
                 "id": 386524895,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-23T09:02:49Z",
+                "last_commit": "2026-11-24T00:20:31Z",
                 "open_issues": 66,
                 "owner": "mvt-project",
                 "repo": "mvt",
-                "stars": 16169,
+                "stars": 16177,
                 "topics": [
                   "android",
                   "forensics",
@@ -1767,7 +1767,7 @@
                 "open_issues": 103,
                 "owner": "Konloch",
                 "repo": "bytecode-viewer",
-                "stars": 15729,
+                "stars": 15730,
                 "topics": [
                   "android",
                   "apk",
@@ -1809,7 +1809,7 @@
                 "open_issues": 248,
                 "owner": "java-decompiler",
                 "repo": "jd-gui",
-                "stars": 15229,
+                "stars": 15230,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -1872,7 +1872,7 @@
                 "open_issues": 1,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6492,
+                "stars": 6495,
                 "topics": [
                   "adb",
                   "android",
@@ -1914,7 +1914,7 @@
                 "open_issues": 5,
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6457,
+                "stars": 6458,
                 "topics": [
                   "android",
                   "dalvik",
@@ -2005,11 +2005,11 @@
                 "id": 24747351,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T13:30:56Z",
+                "last_commit": "2026-11-23T22:17:03Z",
                 "open_issues": 0,
                 "owner": "JetBrains",
                 "repo": "fernflower",
-                "stars": 4449,
+                "stars": 4451,
                 "topics": [
                   "decompiler",
                   "java",
@@ -2031,10 +2031,10 @@
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-16T06:15:21Z",
-                "open_issues": 25,
+                "open_issues": 24,
                 "owner": "APKLab",
                 "repo": "APKLab",
-                "stars": 4078,
+                "stars": 4077,
                 "topics": [
                   "android",
                   "apk-decompiler",
@@ -2874,11 +2874,11 @@
                 "id": 519832,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-19T11:59:34Z",
+                "last_commit": "2026-11-23T11:00:13Z",
                 "open_issues": 567,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 47150,
+                "stars": 47163,
                 "topics": [
                   "debugging",
                   "http",
@@ -3010,6 +3010,27 @@
             },
             {
               "node_type": "item",
+              "title": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
+              "description": "R0rt1z2/kaeru",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
+                "homepage": null,
+                "id": 978365261,
+                "language": "C",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-11-24T01:26:32Z",
+                "open_issues": 27,
+                "owner": "R0rt1z2",
+                "repo": "kaeru",
+                "stars": 364,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:24:46.950Z"
+            },
+            {
+              "node_type": "item",
               "title": "Firmware Extractor",
               "description": "Extract given archive to images",
               "children": [],
@@ -3021,30 +3042,9 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-22T06:43:30Z",
-                "open_issues": 7,
+                "open_issues": 6,
                 "owner": "AndroidDumps",
                 "repo": "Firmware_extractor",
-                "stars": 364,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:24:46.950Z"
-            },
-            {
-              "node_type": "item",
-              "title": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
-              "description": "R0rt1z2/kaeru",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ARMv7 payload that provides arbitrary code execution on MediaTek bootloaders",
-                "homepage": null,
-                "id": 978365261,
-                "language": "C",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-11-22T16:39:50Z",
-                "open_issues": 27,
-                "owner": "R0rt1z2",
-                "repo": "kaeru",
                 "stars": 363,
                 "topics": []
               },
@@ -3119,7 +3119,7 @@
                 "open_issues": 6,
                 "owner": "thomasbuilds",
                 "repo": "Spectre",
-                "stars": 212,
+                "stars": 213,
                 "topics": [
                   "android",
                   "app",
@@ -3153,11 +3153,11 @@
                 "id": 1413350636,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T09:46:18Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-23T12:12:11Z",
+                "open_issues": 0,
                 "owner": "wlmosv-png",
                 "repo": "wpaforge",
-                "stars": 185,
+                "stars": 186,
                 "topics": [
                   "android",
                   "android-app",
@@ -3282,7 +3282,7 @@
                 "id": 1250994941,
                 "language": "Kotlin",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-23T04:21:02Z",
+                "last_commit": "2026-11-24T02:47:47Z",
                 "open_issues": 4,
                 "owner": "Inforaam",
                 "repo": "MobShield-Android",
@@ -3364,7 +3364,7 @@
                 "open_issues": 17,
                 "owner": "dineshshetty",
                 "repo": "Android-InsecureBankv2",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -3619,11 +3619,11 @@
                 "id": 69648386,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-10T11:23:38Z",
-                "open_issues": 259,
+                "last_commit": "2026-11-24T10:50:23Z",
+                "open_issues": 258,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13370,
+                "stars": 13374,
                 "topics": [
                   "android",
                   "android-application",
@@ -3753,7 +3753,7 @@
                 "open_issues": 0,
                 "owner": "ashishb",
                 "repo": "android-malware",
-                "stars": 1233,
+                "stars": 1232,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:24:46.950Z"
@@ -3810,7 +3810,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:53:06.706Z",
+    "last_updated": "2026-11-24T11:41:21.745Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of android security related resources",
@@ -3819,10 +3819,10 @@
       "language": "Makefile",
       "license": "Apache-2.0",
       "last_commit": "2026-11-23T06:12:20Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "ashishb",
       "repo": "android-security-awesome",
-      "stars": 9851,
+      "stars": 9855,
       "topics": [
         "android",
         "awesome",
